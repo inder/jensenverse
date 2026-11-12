@@ -1,6 +1,6 @@
 # JENSENVERSE
 
-A browsable Jensen Huang meme library: https://inder.github.io/jensen-huang-memes/
+A browsable Jensen Huang meme library: https://inder.github.io/jensenverse/
 
 ## Collection
 
