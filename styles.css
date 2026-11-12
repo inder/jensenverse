@@ -4,3 +4,5 @@
 
 .fallback-title{font-family:Space Grotesk,Arial,sans-serif;font-size:18px;line-height:1.2;letter-spacing:-.5px;font-weight:500;max-width:90%;margin:auto 0 12px}.art-fallback:has(.fallback-title) b{font-size:43px;letter-spacing:-5px}.detail-preview>.art-fallback{min-height:250px}
 .toolbar{flex-wrap:wrap}.search-wrap{flex-basis:230px}@media(max-width:740px){.search-wrap{flex-basis:100%}}
+
+.brand-icon{display:block;width:54px;height:54px;flex:none;transform:rotate(-6deg)}@media(max-width:520px){.brand-icon{width:42px;height:42px}}

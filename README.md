@@ -21,3 +21,7 @@ Metadata and links checked November 12, 2026. `data.json` contains per-entry sou
 GitHub Pages serves the root of `main`. No build step or server is required. Edit `data.json` for collection updates; edit `index.html`, `styles.css` and `app.js` for presentation. Preview with a static HTTP server. No analytics or account system is installed. Saved items do not sync across devices.
 
 Use repository issues to suggest a clip or report a broken link. Suggestions are not automatically published. This is an independent fan archive, unaffiliated with NVIDIA or the people depicted.
+
+## Brand and link previews
+
+The glasses-and-jacket mark is supplied as SVG, PNG and ICO for browsers, bookmarks and home-screen icons. `assets/jensenverse-social-v1.png` is the 1200×630 sharing image. Static Open Graph and X large-image card tags live in the page head so crawlers do not need JavaScript. Platform caches and display decisions are outside the site’s control. The editable vector sources are included under `assets/`.
