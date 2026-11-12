@@ -1,0 +1,83 @@
+{
+  "checked_on": "2026-11-12",
+  "method": "Original post HTTP response and official X oEmbed metadata; playback not independently tested.",
+  "posts": [
+    {
+      "url": "https://x.com/dedene/status/2119566915022512362",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "Peter Dedene",
+      "canonical_url": "https://x.com/dedene/status/2119566915022512362"
+    },
+    {
+      "url": "https://x.com/Dogetothemoon/status/2119589714575671783",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "Doge Tipping",
+      "canonical_url": "https://x.com/Dogetothemoon/status/2119589714575671783"
+    },
+    {
+      "url": "https://x.com/thomasunise/status/2119605573234970966",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "Thomas Unise",
+      "canonical_url": "https://x.com/thomasunise/status/2119605573234970966"
+    },
+    {
+      "url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "Alex 👽",
+      "canonical_url": "https://x.com/AlexesNakamoto/status/2119711455284990402"
+    },
+    {
+      "url": "https://x.com/TrendingTrol/status/2119740720743584102",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "TrendingTrolls",
+      "canonical_url": "https://x.com/TrendingTrol/status/2119740720743584102"
+    },
+    {
+      "url": "https://x.com/tQuietEngineer/status/2119687115428798784",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "The Quiet Engineer",
+      "canonical_url": "https://x.com/tQuietEngineer/status/2119687115428798784"
+    },
+    {
+      "url": "https://x.com/AutismCapital/status/2120217246731792692",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "Autism Capital 🧩",
+      "canonical_url": "https://x.com/AutismCapital/status/2120217246731792692"
+    },
+    {
+      "url": "https://x.com/shanedk/status/2120267996983898403",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "Shane Killian",
+      "canonical_url": "https://x.com/shanedk/status/2120267996983898403"
+    },
+    {
+      "url": "https://x.com/DesiMemesTweets/status/2120106096467886123",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "Atulya",
+      "canonical_url": "https://x.com/DesiMemesTweets/status/2120106096467886123"
+    },
+    {
+      "url": "https://x.com/alifarhat79/status/2119814306963284126",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "Not Jerome Powell",
+      "canonical_url": "https://x.com/alifarhat79/status/2119814306963284126"
+    },
+    {
+      "url": "https://x.com/InvestingAddict/status/2119538756915274217",
+      "post_http_status": 200,
+      "oembed_http_status": 200,
+      "author": "Investing Addict",
+      "canonical_url": "https://x.com/InvestingAddict/status/2119538756915274217"
+    }
+  ]
+}
