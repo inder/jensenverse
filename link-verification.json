@@ -1,83 +1,283 @@
 {
   "checked_on": "2026-11-12",
-  "method": "Original post HTTP response and official X oEmbed metadata; playback not independently tested.",
-  "posts": [
+  "method": "X: original pages and official oEmbed; YouTube: official oEmbed and player metadata; Reddit: public post, media preview and contextual evidence through web retrieval. Full playback not independently watched.",
+  "items": [
     {
-      "url": "https://x.com/dedene/status/2119566915022512362",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "Peter Dedene",
-      "canonical_url": "https://x.com/dedene/status/2119566915022512362"
-    },
-    {
-      "url": "https://x.com/Dogetothemoon/status/2119589714575671783",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "Doge Tipping",
-      "canonical_url": "https://x.com/Dogetothemoon/status/2119589714575671783"
-    },
-    {
-      "url": "https://x.com/thomasunise/status/2119605573234970966",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "Thomas Unise",
-      "canonical_url": "https://x.com/thomasunise/status/2119605573234970966"
-    },
-    {
-      "url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "Alex 👽",
-      "canonical_url": "https://x.com/AlexesNakamoto/status/2119711455284990402"
-    },
-    {
-      "url": "https://x.com/TrendingTrol/status/2119740720743584102",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "TrendingTrolls",
-      "canonical_url": "https://x.com/TrendingTrol/status/2119740720743584102"
-    },
-    {
+      "id": "500-days",
       "url": "https://x.com/tQuietEngineer/status/2119687115428798784",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "The Quiet Engineer",
-      "canonical_url": "https://x.com/tQuietEngineer/status/2119687115428798784"
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
+      "alternatives": [
+        {
+          "url": "https://www.youtube.com/watch?v=Q0ng2xIhoJE",
+          "platform": "YouTube",
+          "creator": "Black Eyes",
+          "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true."
+        }
+      ]
     },
     {
+      "id": "downfall-jensen",
+      "url": "https://x.com/AIandDesign/status/2119634875859018155",
+      "platform": "X",
+      "verification": "Post identity and media thumbnail checked; playback not independently viewed. Checked November 12, 2026.",
+      "source": "https://teapawt.org/vinsonleow",
+      "alternatives": []
+    },
+    {
+      "id": "yt-9vhL0rX0m5A",
+      "url": "https://www.youtube.com/shorts/9vhL0rX0m5A",
+      "platform": "YouTube",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true.",
+      "source": "https://classic-blog.udn.com/charlesyuen/192806309",
+      "alternatives": []
+    },
+    {
+      "id": "x-2120007306545152297",
+      "url": "https://x.com/RockstarAmit/status/2120007306545152297",
+      "platform": "X",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
+      "alternatives": []
+    },
+    {
+      "id": "lODzoQD2adc",
+      "url": "https://www.youtube.com/watch?v=lODzoQD2adc",
+      "platform": "YouTube",
+      "verification": "Metadata and player status checked; complete playback not independently viewed. Checked November 12, 2026.",
+      "source": "https://www.youtube.com/watch?v=lODzoQD2adc",
+      "alternatives": []
+    },
+    {
+      "id": "spider-man-boardroom",
+      "url": "https://www.reddit.com/r/raimimemes/comments/1xuel3l/using_his_own_powers_against_him/",
+      "platform": "Reddit",
+      "verification": "Public Reddit post, media preview and discussion checked November 12, 2026. Original video creator not confirmed; playback not independently tested.",
+      "source": "https://www.reddit.com/r/raimimemes/comments/1xuel3l/using_his_own_powers_against_him/",
+      "alternatives": []
+    },
+    {
+      "id": "coldplay-kiss-cam",
+      "url": "https://x.com/dedene/status/2119566915022512362",
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
+      "alternatives": []
+    },
+    {
+      "id": "youre-an-asset",
+      "url": "https://x.com/Dogetothemoon/status/2119589714575671783",
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
+      "alternatives": []
+    },
+    {
+      "id": "usher-confessions",
+      "url": "https://x.com/thomasunise/status/2119605573234970966",
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
+      "alternatives": []
+    },
+    {
+      "id": "why-deceive-you",
+      "url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
+      "alternatives": [
+        {
+          "url": "https://www.youtube.com/watch?v=QXcgKAe-5ec",
+          "platform": "YouTube",
+          "creator": "The Mythical Engineer",
+          "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true."
+        }
+      ]
+    },
+    {
+      "id": "kiss-cam-take-two",
+      "url": "https://x.com/TrendingTrol/status/2119740720743584102",
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
+      "alternatives": []
+    },
+    {
+      "id": "just-want-to-be-seen",
       "url": "https://x.com/AutismCapital/status/2120217246731792692",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "Autism Capital 🧩",
-      "canonical_url": "https://x.com/AutismCapital/status/2120217246731792692"
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221",
+      "alternatives": []
     },
     {
+      "id": "honeypot-reply",
       "url": "https://x.com/shanedk/status/2120267996983898403",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "Shane Killian",
-      "canonical_url": "https://x.com/shanedk/status/2120267996983898403"
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221",
+      "alternatives": []
     },
     {
+      "id": "bollywood-don",
       "url": "https://x.com/DesiMemesTweets/status/2120106096467886123",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "Atulya",
-      "canonical_url": "https://x.com/DesiMemesTweets/status/2120106096467886123"
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221",
+      "alternatives": []
     },
     {
+      "id": "divorce-lawyers",
       "url": "https://x.com/alifarhat79/status/2119814306963284126",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "Not Jerome Powell",
-      "canonical_url": "https://x.com/alifarhat79/status/2119814306963284126"
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
+      "alternatives": []
     },
     {
+      "id": "boat-ride",
       "url": "https://x.com/InvestingAddict/status/2119538756915274217",
-      "post_http_status": 200,
-      "oembed_http_status": 200,
-      "author": "Investing Addict",
-      "canonical_url": "https://x.com/InvestingAddict/status/2119538756915274217"
+      "platform": "X",
+      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
+      "alternatives": []
+    },
+    {
+      "id": "not-leaving",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu4dus/he_is_not_leaving/",
+      "platform": "Reddit",
+      "verification": "Public Reddit post, media preview and discussion checked November 12, 2026. Original video creator not confirmed; playback not independently tested.",
+      "source": "https://www.reddit.com/r/wallstreetbets/comments/1xu4dus/he_is_not_leaving/",
+      "alternatives": []
+    },
+    {
+      "id": "wasnt-me",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1xtzw2g/it_wasnt_me_ft_jensen/",
+      "platform": "Reddit",
+      "verification": "Public Reddit post, media preview and discussion checked November 12, 2026. Original video creator not confirmed; playback not independently tested.",
+      "source": "https://www.reddit.com/r/wallstreetbets/comments/1xtzw2g/it_wasnt_me_ft_jensen/",
+      "alternatives": []
+    },
+    {
+      "id": "office-arrival",
+      "url": "https://www.reddit.com/r/MemeVideos/comments/1xubora/jensen_huang_entering_nvidia_office/",
+      "platform": "Reddit",
+      "verification": "Public Reddit post, media preview and discussion checked November 12, 2026. Original video creator not confirmed; playback not independently tested.",
+      "source": "https://www.reddit.com/r/MemeVideos/comments/1xubora/jensen_huang_entering_nvidia_office/",
+      "alternatives": []
+    },
+    {
+      "id": "702K2UjOM9E",
+      "url": "https://www.youtube.com/watch?v=702K2UjOM9E",
+      "platform": "YouTube",
+      "verification": "Metadata and player status checked; complete playback not independently viewed. Checked November 12, 2026.",
+      "source": "https://capetimes.co.za/technology/2026-11-10-nvidia-ceo-jensen-huang-roasted-online-over-spy-sex-scandal-in-parody-two-huangs-dont-make-a-right/",
+      "alternatives": []
+    },
+    {
+      "id": "HA0ulwcacFI",
+      "url": "https://www.youtube.com/watch?v=HA0ulwcacFI",
+      "platform": "YouTube",
+      "verification": "Metadata and player status checked; complete playback not independently viewed. Checked November 12, 2026.",
+      "source": "https://www.youtube.com/watch?v=HA0ulwcacFI",
+      "alternatives": []
+    },
+    {
+      "id": "matrix-trump-jensen",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu1ang/absolute_cinematic_reality_we_live_right_now/",
+      "platform": "Reddit",
+      "verification": "Public Reddit post found, video poster and content description present; full playback and creator attribution not independently verified. Checked November 12, 2026.",
+      "source": "https://www.reddit.com/r/StableDiffusion/comments/1xujcy2/jensen_caught_in_the_matrix/",
+      "alternatives": []
+    },
+    {
+      "id": "yt-3wGqRpCSsas",
+      "url": "https://www.youtube.com/watch?v=3wGqRpCSsas",
+      "platform": "YouTube",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true.",
+      "source": "https://www.globalnerdy.com/2026/11/10/because-someone-asked-a-jensen-huang-picdump/",
+      "alternatives": []
+    },
+    {
+      "id": "yt-Ij0pS33FCL4",
+      "url": "https://www.youtube.com/watch?v=Ij0pS33FCL4",
+      "platform": "YouTube",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true.",
+      "source": "https://www.globalnerdy.com/2026/11/10/because-someone-asked-a-jensen-huang-picdump/",
+      "alternatives": []
+    },
+    {
+      "id": "yt-lBFXmJnJH3M",
+      "url": "https://www.youtube.com/watch?v=lBFXmJnJH3M",
+      "platform": "YouTube",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true.",
+      "source": "https://www.globalnerdy.com/2026/11/10/because-someone-asked-a-jensen-huang-picdump/",
+      "alternatives": []
+    },
+    {
+      "id": "x-2119685908094148859",
+      "url": "https://x.com/kalshitkalshi/status/2119685908094148859",
+      "platform": "X",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
+      "alternatives": []
+    },
+    {
+      "id": "x-2119812985166434588",
+      "url": "https://x.com/Memeswalimulagi/status/2119812985166434588",
+      "platform": "X",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
+      "alternatives": []
+    },
+    {
+      "id": "x-2120150482627047540",
+      "url": "https://x.com/HasnaZaruriHai/status/2120150482627047540",
+      "platform": "X",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
+      "alternatives": []
+    },
+    {
+      "id": "x-2120091554987868389",
+      "url": "https://x.com/rahulnanda86/status/2120091554987868389",
+      "platform": "X",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "source": "https://www.indiatimes.com/trending/did-salman-khans-ek-tha-tiger-predict-jensen-huangs-controversy-indians-react-to-nvidia-ceos-alleged-affair-with-chinese-spy-alice-huang/articleshow/135714433.html",
+      "alternatives": []
+    },
+    {
+      "id": "x-2120139616221311040",
+      "url": "https://x.com/rahulnanda86/status/2120139616221311040",
+      "platform": "X",
+      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "source": "https://www.indiatimes.com/trending/did-salman-khans-ek-tha-tiger-predict-jensen-huangs-controversy-indians-react-to-nvidia-ceos-alleged-affair-with-chinese-spy-alice-huang/articleshow/135714433.html",
+      "alternatives": []
+    },
+    {
+      "id": "x-2119699166255595565",
+      "url": "https://x.com/JamesAI/status/2119699166255595565",
+      "platform": "X",
+      "verification": "Original page and official oEmbed returned HTTP 200; oEmbed language zh. Not manually played.",
+      "source": "https://www.malaymail.com/news/life/2026/11/10/ai-bites-back-nvidia-boss-jensen-huangs-affair-scandal-sparks-memes-from-coldplay-kiss-cam-to-ushers-confessions/242706",
+      "alternatives": [
+        {
+          "url": "https://www.youtube.com/watch?v=0pZIyFSBSLA",
+          "platform": "YouTube",
+          "creator": "Futurix",
+          "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true."
+        }
+      ]
+    },
+    {
+      "id": "reddit-1xufjjj",
+      "url": "https://www.reddit.com/r/GottaGoStarbucks/comments/1xufjjj/jensen_huang_ver_of_the_famous_korean_kimchi_slap/",
+      "platform": "Reddit",
+      "verification": "Public Reddit post rendered through web tool with matching title, uploader, media poster and Korean caption. Independent news coverage documents meme format. Reddit direct JSON blocked; playback not independently tested.",
+      "source": "https://www.asiae.co.kr/en/article/2026111214050124983",
+      "alternatives": []
     }
   ]
 }
