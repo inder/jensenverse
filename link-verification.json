@@ -1,283 +1,1394 @@
 {
-  "checked_on": "2026-11-12",
-  "method": "X: original pages and official oEmbed; YouTube: official oEmbed and player metadata; Reddit: public post, media preview and contextual evidence through web retrieval. Full playback not independently watched.",
+  "checked_on": "2026-11-15",
+  "method": "Direct public page metadata and official X/YouTube oEmbed; YouTube player metadata; Reddit public indexed post rechecks where direct requests were blocked. Instagram public Reel metadata and linked PCWorld context. No full playback independently watched.",
   "items": [
+    {
+      "id": "snl-cia-meeting",
+      "url": "https://www.youtube.com/watch?v=R_8UPhJNrZ4",
+      "platform": "YouTube",
+      "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "source": "https://www.thewrap.com/creative-content/tv-shows/snl-cold-open-bowen-yang-return-jensen-huang-nvidia-john-mulaney/",
+      "alternatives": [
+        {
+          "url": "https://x.com/nbcsnl/status/2121827093017415989",
+          "platform": "X",
+          "creator": "Saturday Night Live (@nbcsnl)",
+          "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required. Official SNL post for the same sketch; not a separate entry."
+        }
+      ],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=R_8UPhJNrZ4",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=R_8UPhJNrZ4",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Saturday Night Live",
+          "author_url": "https://www.youtube.com/@SaturdayNightLive",
+          "title": "CIA Meeting Cold Open - SNL",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/R_8UPhJNrZ4/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "CIA Meeting Cold Open - SNL",
+          "og:description": "A CIA officer (John Mulaney) gathers the nation's most prominent tech billionaires to test their national security training.Saturday Night Live. Stream now o...",
+          "og:url": "https://www.youtube.com/watch?v=R_8UPhJNrZ4",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-14T21:15:45-08:00"
+      },
+      "alternate_checks": [
+        {
+          "url": "https://x.com/nbcsnl/status/2121827093017415989",
+          "checked_on": "2026-11-15",
+          "http_status": 200,
+          "resolved_url": "https://x.com/nbcsnl/status/2121827093017415989",
+          "playback_confirmed": false,
+          "oembed": {
+            "author_name": "Saturday Night Live",
+            "author_url": "https://x.com/nbcsnl",
+            "type": "rich"
+          },
+          "page_metadata": {
+            "og:title": "Saturday Night Live (@nbcsnl) on X",
+            "og:description": "the nation’s most prominent tech billionaires gather over an issue of national security",
+            "og:url": "https://x.com/nbcsnl/status/2121827093017415989",
+            "article:published_time": "2026-11-15T04:46:15.000Z",
+            "og:type": "article"
+          }
+        }
+      ],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/R_8UPhJNrZ4/hqdefault.jpg",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
+    },
+    {
+      "id": "midcareer-job-interview",
+      "url": "https://x.com/holdonyourrope/status/2121067304876490914",
+      "platform": "X",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "source": "https://life.tw/article/黃仁勳離職後-中年轉職真的難-網友ai惡搞求職影片-3218497",
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/holdonyourrope/status/2121067304876490914",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/holdonyourrope/status/2121067304876490914",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "大表哥 | 链上金狗",
+          "author_url": "https://x.com/holdonyourrope",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "大表哥 | 链上金狗 (@holdonyourrope) on X",
+          "og:description": "老黄再次找工作，差点被气笑了",
+          "og:url": "https://x.com/holdonyourrope/status/2121067304876490914",
+          "article:published_time": "2026-11-13T02:27:07.000Z",
+          "og:type": "article"
+        },
+        "media_metadata": {
+          "type": "video",
+          "duration_seconds": 87.423,
+          "evidence": "Public X page serialized media metadata; video_info and duration_millis present."
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2121067222982660096/img/DuQ-h-1Ew-ZhO9Co?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
+    },
+    {
+      "id": "basketball-outplayed",
+      "url": "https://www.instagram.com/reel/DfovH9exmGS/",
+      "platform": "Instagram",
+      "verification": "Checked November 15, 2026: public Reel page metadata identifies Sidereal Studio (@sidereal.studio), November 12 upload and preview image. PCWorld identifies the basketball parody. Original authorship not independently established; playback and embedding not tested. Instagram sign-in may be required.",
+      "source": "https://www.pcworld.com/article/3285968/the-jensen-huang-memes-is-this-ai-grievance-or-ai-embrace.html",
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.instagram.com/reel/DfovH9exmGS/",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.instagram.com/reel/DfovH9exmGS/",
+        "playback_confirmed": false,
+        "page_metadata": {
+          "og:title": "Sidereal Studio on Instagram: \"Bro got outplayed by CCP🥶\nFollow for AI memes.\n#jensenhuang #nvidia #kimberlypowell #lorihuang #spy\"",
+          "og:description": "18K likes, 60 comments - sidereal.studio on November 12, 2026: \"Bro got outplayed by CCP🥶\nFollow for AI memes.\n#jensenhuang #nvidia #kimberlypowell #lorihuang #spy\". ",
+          "og:url": "https://www.instagram.com/sidereal.studio/reel/DfovH9exmGS/",
+          "og:type": "article"
+        },
+        "media_metadata": {
+          "type": "Instagram Reel",
+          "embed_tested": false,
+          "date_evidence": "Public og:description gives November 12, 2026."
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/900856222_17940592872164098_1079519787816698817_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ODWu5e-4eVUQ7kNvwGoFJ1u&_nc_oc=AdqqdtCnDbEcAfrJfSdUzYhGZoi1IA-c6NtRxX3dlPdF3842ejJ0y2u3gYFz2DvJlNo&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=Cw6XYf2qSDZQnpu75-htPA&_nc_ss=7960f&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSwaQnaIwhP7ONnXxo1pM5NecUWJCIP6EsY0PKvxY7srQ&oe=6AFFA714",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
+    },
+    {
+      "id": "wazzzzzup-jensen",
+      "url": "https://x.com/TheUnitedSpot__/status/2121260807367557139",
+      "platform": "X",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "source": "https://theloftusparty.com/2026/11/14/the-week-in-memes-big-tech-big-dreck/",
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/TheUnitedSpot__/status/2121260807367557139",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/TheUnitedSpot__/status/2121260807367557139",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "The United Spot",
+          "author_url": "https://x.com/TheUnitedSpot__",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "The United Spot (@TheUnitedSpot__) on X",
+          "og:description": "Wazzzzzup with Jensen Huang!",
+          "og:url": "https://x.com/TheUnitedSpot__/status/2121260807367557139",
+          "article:published_time": "2026-11-13T15:16:02.000Z",
+          "og:type": "article"
+        },
+        "media_metadata": {
+          "type": "video",
+          "duration_seconds": 73.6,
+          "evidence": "Public X page serialized media metadata; video_info and duration_millis present."
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/media/HXA7WtCbEAAeuXh?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
+    },
+    {
+      "id": "everyone-needs-gpus",
+      "url": "https://www.youtube.com/watch?v=U4ALVssJxD4",
+      "platform": "YouTube",
+      "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "source": "https://www.youtube.com/watch?v=U4ALVssJxD4",
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=U4ALVssJxD4",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=U4ALVssJxD4",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Mooditale",
+          "author_url": "https://www.youtube.com/@Mooditale",
+          "title": "When Everyone Needs NVIDIA GPUs 😂 | Jensen Huang AI Meme",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/U4ALVssJxD4/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "When Everyone Needs NVIDIA GPUs 😂 | Jensen Huang AI Meme",
+          "og:description": "When the AI boom hits and everyone needs your GPUs 😂🎶 Jensen Huang gets a musical makeover in this hilarious AI-edited meme.What song should he perform nex...",
+          "og:url": "https://www.youtube.com/shorts/U4ALVssJxD4",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-12T21:51:23-08:00"
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/U4ALVssJxD4/hqdefault.jpg",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
+    },
     {
       "id": "500-days",
       "url": "https://x.com/tQuietEngineer/status/2119687115428798784",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [
         {
           "url": "https://www.youtube.com/watch?v=Q0ng2xIhoJE",
           "platform": "YouTube",
           "creator": "Black Eyes",
-          "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true."
+          "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched."
         }
-      ]
+      ],
+      "latest_check": {
+        "url": "https://x.com/tQuietEngineer/status/2119687115428798784",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/tQuietEngineer/status/2119687115428798784",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "The Quiet Engineer",
+          "author_url": "https://x.com/tQuietEngineer",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "The Quiet Engineer (@tQuietEngineer) on X",
+          "og:description": "I would like to formally apologize to Jensen Huang, one smile in that elevator and I'm disabling 2FA and giving her full admin access to the production database",
+          "og:url": "https://x.com/tQuietEngineer/status/2119687115428798784",
+          "article:published_time": "2026-11-09T07:02:44.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [
+        {
+          "url": "https://www.youtube.com/watch?v=Q0ng2xIhoJE",
+          "checked_on": "2026-11-15",
+          "http_status": 200,
+          "resolved_url": "https://www.youtube.com/watch?v=Q0ng2xIhoJE",
+          "playback_confirmed": false,
+          "oembed": {
+            "author_name": "Black Eyes",
+            "author_url": "https://www.youtube.com/@blackeyes1252",
+            "title": "500 chips of summer #nvidia #jensenhuang #china #ai #funny #memes #shorts #cheating #spy",
+            "type": "video",
+            "thumbnail_url": "https://i.ytimg.com/vi/Q0ng2xIhoJE/hqdefault.jpg"
+          },
+          "page_metadata": {
+            "og:title": "500 chips of summer #nvidia #jensenhuang #china #ai #funny #memes #shorts #cheating #spy",
+            "og:description": "that's what really happened 😭",
+            "og:url": "https://www.youtube.com/shorts/Q0ng2xIhoJE",
+            "og:type": "video.other"
+          },
+          "player_metadata": {
+            "status": "OK",
+            "playableInEmbed": true
+          },
+          "published_at": "2026-11-09T07:25:57-08:00"
+        }
+      ],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119602093426384897/img/jOaOCwSFfY-yHlVo?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "downfall-jensen",
       "url": "https://x.com/AIandDesign/status/2119634875859018155",
       "platform": "X",
-      "verification": "Post identity and media thumbnail checked; playback not independently viewed. Checked November 12, 2026.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://teapawt.org/vinsonleow",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/AIandDesign/status/2119634875859018155",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/AIandDesign/status/2119634875859018155",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "⭕ AI & Design (Marco)",
+          "author_url": "https://x.com/AIandDesign",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "⭕ AI & Design (Marco) (@AIandDesign) on X",
+          "og:description": "Hitler find out about Jensen Huang's affair with Alice Huang.",
+          "og:url": "https://x.com/AIandDesign/status/2119634875859018155",
+          "article:published_time": "2026-11-09T03:35:09.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119634608354668544/img/UR3EAC45ameqntZB?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "yt-9vhL0rX0m5A",
       "url": "https://www.youtube.com/shorts/9vhL0rX0m5A",
       "platform": "YouTube",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true.",
+      "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://classic-blog.udn.com/charlesyuen/192806309",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/shorts/9vhL0rX0m5A",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/shorts/9vhL0rX0m5A",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "時代側寫師",
+          "author_url": "https://www.youtube.com/@%E6%99%82%E4%BB%A3%E5%81%B4%E5%AF%AB%E5%B8%AB",
+          "title": "AI:黄仁勋 黄乐《TROUBLE MAKER》（上部分）",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/9vhL0rX0m5A/hq2.jpg"
+        },
+        "page_metadata": {
+          "og:title": "AI:黄仁勋 黄乐《TROUBLE MAKER》（上部分）",
+          "og:description": "#黄仁勋#黄乐#出轨门#马斯克#山姆·奥特曼#梁文锋",
+          "og:url": "https://www.youtube.com/shorts/9vhL0rX0m5A",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-10T01:06:43-08:00"
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/9vhL0rX0m5A/hq2.jpg",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "x-2120007306545152297",
       "url": "https://x.com/RockstarAmit/status/2120007306545152297",
       "platform": "X",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/RockstarAmit/status/2120007306545152297",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/RockstarAmit/status/2120007306545152297",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Amit Singh",
+          "author_url": "https://x.com/RockstarAmit",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Amit Singh (@RockstarAmit) on X",
+          "og:description": "Jensen Huang be like",
+          "og:url": "https://x.com/RockstarAmit/status/2120007306545152297",
+          "article:published_time": "2026-11-10T04:15:04.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2120007244150644737/img/RVGWNuGLAB6CRVEg?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "lODzoQD2adc",
       "url": "https://www.youtube.com/watch?v=lODzoQD2adc",
       "platform": "YouTube",
-      "verification": "Metadata and player status checked; complete playback not independently viewed. Checked November 12, 2026.",
+      "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.youtube.com/watch?v=lODzoQD2adc",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=lODzoQD2adc",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=lODzoQD2adc",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Mr. Newberger's AI Funnies",
+          "author_url": "https://www.youtube.com/@jeremynewberger",
+          "title": "🎬 THE FOUR TREASONS | A Trump Film Parody | Mr. Newberger's AI Funnies",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/lODzoQD2adc/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "🎬 THE FOUR TREASONS | A Trump Film Parody | Mr. Newberger's AI Funnies",
+          "og:description": "🍂❄️☀️🌸 Four seasons. Six friends. One very dysfunctional vacation.What happens when you take the beloved 1981 Alan Alda comedy The Four Seasons and replace...",
+          "og:url": "https://www.youtube.com/watch?v=lODzoQD2adc",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-10T09:34:29-08:00"
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/lODzoQD2adc/hqdefault.jpg",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "spider-man-boardroom",
       "url": "https://www.reddit.com/r/raimimemes/comments/1xuel3l/using_his_own_powers_against_him/",
       "platform": "Reddit",
-      "verification": "Public Reddit post, media preview and discussion checked November 12, 2026. Original video creator not confirmed; playback not independently tested.",
+      "verification": "Rechecked November 15, 2026: public indexed post still identifies the uploader and media preview (search crawl November 12–13). Direct Reddit access returned HTTP 403, so current live availability and playback remain unconfirmed; this is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/raimimemes/comments/1xuel3l/using_his_own_powers_against_him/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.reddit.com/r/raimimemes/comments/1xuel3l/using_his_own_powers_against_him/",
+        "checked_on": "2026-11-15",
+        "error": "HTTP Error 403: Blocked",
+        "playback_confirmed": false,
+        "page_metadata": {},
+        "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check."
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://external-preview.redd.it/using-his-own-powers-against-him-v0-bzRzZDNlczAyNzFpMQtPV-vaKJxhRS03aRgzwohY4k4_UQODHOMn5q-8e2Gg.png?auto=webp&crop=smart&format=pjpg&s=23a80429bb7fadf2a422433038054068403dfb7f&width=640",
+        "error": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "coldplay-kiss-cam",
       "url": "https://x.com/dedene/status/2119566915022512362",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/dedene/status/2119566915022512362",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/dedene/status/2119566915022512362",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Peter Dedene",
+          "author_url": "https://x.com/dedene",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Peter Dedene (@dedene) on X",
+          "og:description": "POV: You’re the NVIDIA CEO and Coldplay’s kiss cam finds you 💀",
+          "og:url": "https://x.com/dedene/status/2119566915022512362",
+          "article:published_time": "2026-11-08T23:05:06.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119566885465296896/img/jSIr0iNJ_io-q1qj?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "youre-an-asset",
       "url": "https://x.com/Dogetothemoon/status/2119589714575671783",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/Dogetothemoon/status/2119589714575671783",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/Dogetothemoon/status/2119589714575671783",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Doge Tipping",
+          "author_url": "https://x.com/Dogetothemoon",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Doge Tipping (@Dogetothemoon) on X",
+          "og:description": "If she’s a 10, you’re an asset.🤣",
+          "og:url": "https://x.com/Dogetothemoon/status/2119589714575671783",
+          "article:published_time": "2026-11-09T00:35:42.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119589508245278720/img/G_udp9cvEi3Ft44k?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "usher-confessions",
       "url": "https://x.com/thomasunise/status/2119605573234970966",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/thomasunise/status/2119605573234970966",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/thomasunise/status/2119605573234970966",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Thomas Unise",
+          "author_url": "https://x.com/thomasunise",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Thomas Unise (@thomasunise) on X",
+          "og:description": "Jensen Huang after learning about the Chinese honeypot scandal",
+          "og:url": "https://x.com/thomasunise/status/2119605573234970966",
+          "article:published_time": "2026-11-09T01:38:43.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119605332708081664/img/eQGolGojZHnzp92g?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "why-deceive-you",
       "url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [
         {
           "url": "https://www.youtube.com/watch?v=QXcgKAe-5ec",
           "platform": "YouTube",
           "creator": "The Mythical Engineer",
-          "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true."
+          "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched."
         }
-      ]
+      ],
+      "latest_check": {
+        "url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Alex 👽",
+          "author_url": "https://x.com/AlexesNakamoto",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Alex 👽 (@AlexesNakamoto) on X",
+          "og:description": "Jensen, why would I deceive you?",
+          "og:url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
+          "article:published_time": "2026-11-09T08:39:27.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [
+        {
+          "url": "https://www.youtube.com/watch?v=QXcgKAe-5ec",
+          "checked_on": "2026-11-15",
+          "http_status": 200,
+          "resolved_url": "https://www.youtube.com/watch?v=QXcgKAe-5ec",
+          "playback_confirmed": false,
+          "oembed": {
+            "author_name": "The Mythical Engineer",
+            "author_url": "https://www.youtube.com/@themythicalengineer",
+            "title": "Why Would I Deceive You, Jensen Huang? | Nvidia Spy Scandal AI Parody",
+            "type": "video",
+            "thumbnail_url": "https://i.ytimg.com/vi/QXcgKAe-5ec/hqdefault.jpg"
+          },
+          "page_metadata": {
+            "og:title": "Why Would I Deceive You, Jensen Huang? | Nvidia Spy Scandal AI Parody",
+            "og:description": "Why would I deceive you, Jensen Huang? A short AI-generated film about one smiling conversation and the question at the centre of it.She smiles and tells the...",
+            "og:url": "https://www.youtube.com/watch?v=QXcgKAe-5ec",
+            "og:type": "video.other"
+          },
+          "player_metadata": {
+            "status": "OK",
+            "playableInEmbed": true
+          },
+          "published_at": "2026-11-09T19:08:38-08:00"
+        }
+      ],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119710756069392384/img/ClOQII5Hpho6IxpH?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "kiss-cam-take-two",
       "url": "https://x.com/TrendingTrol/status/2119740720743584102",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/TrendingTrol/status/2119740720743584102",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/TrendingTrol/status/2119740720743584102",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "TrendingTrolls",
+          "author_url": "https://x.com/TrendingTrol",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "TrendingTrolls (@TrendingTrol) on X",
+          "og:description": "Jensen Huang was caught on camera cheating.",
+          "og:url": "https://x.com/TrendingTrol/status/2119740720743584102",
+          "article:published_time": "2026-11-09T10:35:45.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119740681837010944/img/oISbia3Z95BztrgR?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "just-want-to-be-seen",
       "url": "https://x.com/AutismCapital/status/2120217246731792692",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/AutismCapital/status/2120217246731792692",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/AutismCapital/status/2120217246731792692",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Autism Capital 🧩",
+          "author_url": "https://x.com/AutismCapital",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Autism Capital 🧩 (@AutismCapital) on X",
+          "og:description": "Men just want to be seen 😂",
+          "og:url": "https://x.com/AutismCapital/status/2120217246731792692",
+          "article:published_time": "2026-11-10T18:09:18.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2120025164284891136/img/5AJ8B4EI5jdZ_0_o?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "honeypot-reply",
       "url": "https://x.com/shanedk/status/2120267996983898403",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/shanedk/status/2120267996983898403",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/shanedk/status/2120267996983898403",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Shane Killian",
+          "author_url": "https://x.com/shanedk",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Shane Killian (@shanedk) on X",
+          "og:description": "@AutismCapital",
+          "og:url": "https://x.com/shanedk/status/2120267996983898403",
+          "article:published_time": "2026-11-10T21:30:57.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/media/HWyz2_2WwAAJnXW?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "bollywood-don",
       "url": "https://x.com/DesiMemesTweets/status/2120106096467886123",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/DesiMemesTweets/status/2120106096467886123",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/DesiMemesTweets/status/2120106096467886123",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Atulya",
+          "author_url": "https://x.com/DesiMemesTweets",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Atulya (@DesiMemesTweets) on X",
+          "og:description": "The best ever use of AI 😅.\n\nNvidia CEO Jensen Huang getting honeytrapped by a Chinese spy, brought to life in Bollywood mode. 🚩\n\nThe fact that this masterpiece was made using AI powered by Nvidia makes it the greatest meme of the decade. 😭💀 \n\n#JensenHuang",
+          "og:url": "https://x.com/DesiMemesTweets/status/2120106096467886123",
+          "article:published_time": "2026-11-10T10:47:37.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2120105883263012864/img/zbm2etpcOAOODW9n?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "divorce-lawyers",
       "url": "https://x.com/alifarhat79/status/2119814306963284126",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/alifarhat79/status/2119814306963284126",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/alifarhat79/status/2119814306963284126",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Not Jerome Powell",
+          "author_url": "https://x.com/alifarhat79",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Not Jerome Powell (@alifarhat79) on X",
+          "og:description": "Jensen Huang’s wife divorce lawyers right now",
+          "og:url": "https://x.com/alifarhat79/status/2119814306963284126",
+          "article:published_time": "2026-11-09T15:28:09.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119814291591208960/img/H4TJyquFkxI0SCPa?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "boat-ride",
       "url": "https://x.com/InvestingAddict/status/2119538756915274217",
       "platform": "X",
-      "verification": "Original post and official X embed metadata checked on November 12, 2026. Playback may depend on X access.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/InvestingAddict/status/2119538756915274217",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/InvestingAddict/status/2119538756915274217",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Investing Addict",
+          "author_url": "https://x.com/InvestingAddict",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Investing Addict (@InvestingAddict) on X",
+          "og:description": "Me and Jensen Huang’s ex wife after she gets half his money in the divorce.",
+          "og:url": "https://x.com/InvestingAddict/status/2119538756915274217",
+          "article:published_time": "2026-11-08T21:13:13.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119538712313024512/img/m8ORoFgJTYieSJVy?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "not-leaving",
       "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu4dus/he_is_not_leaving/",
       "platform": "Reddit",
-      "verification": "Public Reddit post, media preview and discussion checked November 12, 2026. Original video creator not confirmed; playback not independently tested.",
+      "verification": "Rechecked November 15, 2026: public indexed post still identifies the uploader and media preview (search crawl November 12–13). Direct Reddit access returned HTTP 403, so current live availability and playback remain unconfirmed; this is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/wallstreetbets/comments/1xu4dus/he_is_not_leaving/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu4dus/he_is_not_leaving/",
+        "checked_on": "2026-11-15",
+        "error": "HTTP Error 403: Blocked",
+        "playback_confirmed": false,
+        "page_metadata": {},
+        "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check."
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://external-preview.redd.it/he-is-not-leaving-v0-djZyMWs4Mnk4NDFpMfg57LWSOwvbCw-yDewkkqjG8wDGjChneLJQQUl3FmWR.jpeg?auto=webp&crop=smart&format=pjpg&s=63f5d1e4166803ef0a133c530098654054791069&width=640",
+        "error": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "wasnt-me",
       "url": "https://www.reddit.com/r/wallstreetbets/comments/1xtzw2g/it_wasnt_me_ft_jensen/",
       "platform": "Reddit",
-      "verification": "Public Reddit post, media preview and discussion checked November 12, 2026. Original video creator not confirmed; playback not independently tested.",
+      "verification": "Rechecked November 15, 2026: public indexed post still identifies the uploader and media preview (search crawl November 12–13). Direct Reddit access returned HTTP 403, so current live availability and playback remain unconfirmed; this is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/wallstreetbets/comments/1xtzw2g/it_wasnt_me_ft_jensen/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/1xtzw2g/it_wasnt_me_ft_jensen/",
+        "checked_on": "2026-11-15",
+        "error": "HTTP Error 403: Blocked",
+        "playback_confirmed": false,
+        "page_metadata": {},
+        "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check."
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://external-preview.redd.it/it-wasnt-me-ft-jensen-v0-eXE1aDE3bjA1MzFpMY-VF3Zbf287oMv79TaiE4g-inRa0RXDmhlz_W08dORf.png?auto=webp&crop=smart&format=pjpg&s=ada90bb810043b9678d7fbfc3b104816199589ed&width=640",
+        "error": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "office-arrival",
       "url": "https://www.reddit.com/r/MemeVideos/comments/1xubora/jensen_huang_entering_nvidia_office/",
       "platform": "Reddit",
-      "verification": "Public Reddit post, media preview and discussion checked November 12, 2026. Original video creator not confirmed; playback not independently tested.",
+      "verification": "Rechecked November 15, 2026: public indexed post still identifies the uploader and media preview (search crawl November 12–13). Direct Reddit access returned HTTP 403, so current live availability and playback remain unconfirmed; this is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/MemeVideos/comments/1xubora/jensen_huang_entering_nvidia_office/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.reddit.com/r/MemeVideos/comments/1xubora/jensen_huang_entering_nvidia_office/",
+        "checked_on": "2026-11-15",
+        "error": "HTTP Error 403: Blocked",
+        "playback_confirmed": false,
+        "page_metadata": {},
+        "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check."
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://external-preview.redd.it/jensen-huang-entering-nvidia-office-v0-Y3MzMmE3a2NmNjFpMbKbJRAijnqoer095i1VTUB3N8Lu9CZTRj73Gq7XXOt8.jpeg?auto=webp&format=pjpg&s=bc426cc5a511c17c283d306b9965fcdd99456564",
+        "error": "HTTP Error 403: Forbidden"
+      }
     },
     {
       "id": "702K2UjOM9E",
       "url": "https://www.youtube.com/watch?v=702K2UjOM9E",
       "platform": "YouTube",
-      "verification": "Metadata and player status checked; complete playback not independently viewed. Checked November 12, 2026.",
+      "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://capetimes.co.za/technology/2026-11-10-nvidia-ceo-jensen-huang-roasted-online-over-spy-sex-scandal-in-parody-two-huangs-dont-make-a-right/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=702K2UjOM9E",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=702K2UjOM9E",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "SAMTIME",
+          "author_url": "https://www.youtube.com/@SAMTIME",
+          "title": "Nvidia Responds to CEO Cheating With Chinese Spy",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/702K2UjOM9E/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "Nvidia Responds to CEO Cheating With Chinese Spy",
+          "og:description": "Lawyer responds to Nvidia CEO having an affair with a Chinese spy.Also, this is a parody.SOURCES:Nvidia Probe Into CEO’s Affair: https://www.bloomberg.com/ne...",
+          "og:url": "https://www.youtube.com/watch?v=702K2UjOM9E",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-09T10:27:17-08:00"
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/702K2UjOM9E/hqdefault.jpg",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "HA0ulwcacFI",
       "url": "https://www.youtube.com/watch?v=HA0ulwcacFI",
       "platform": "YouTube",
-      "verification": "Metadata and player status checked; complete playback not independently viewed. Checked November 12, 2026.",
+      "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.youtube.com/watch?v=HA0ulwcacFI",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=HA0ulwcacFI",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=HA0ulwcacFI",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "The Daily Show",
+          "author_url": "https://www.youtube.com/@TheDailyShow",
+          "title": "The Nvidia Honey Trap Chinese Sexpionage Scandal, Explained | The Daily Show",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/HA0ulwcacFI/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "The Nvidia Honey Trap Chinese Sexpionage Scandal, Explained | The Daily Show",
+          "og:description": "Desi Lydic breaks down the scandalous sexpionage story surrounding Nvidia CEO Jensen Huang that's shaking the tech world. Huang engaged in an ongoing affair ...",
+          "og:url": "https://www.youtube.com/watch?v=HA0ulwcacFI",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-10T18:59:23-08:00"
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/HA0ulwcacFI/hqdefault.jpg",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "matrix-trump-jensen",
       "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu1ang/absolute_cinematic_reality_we_live_right_now/",
       "platform": "Reddit",
-      "verification": "Public Reddit post found, video poster and content description present; full playback and creator attribution not independently verified. Checked November 12, 2026.",
+      "verification": "Rechecked November 15, 2026: public indexed post still identifies the uploader and media preview (search crawl November 12–13). Direct Reddit access returned HTTP 403, so current live availability and playback remain unconfirmed; this is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/StableDiffusion/comments/1xujcy2/jensen_caught_in_the_matrix/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu1ang/absolute_cinematic_reality_we_live_right_now/",
+        "checked_on": "2026-11-15",
+        "error": "HTTP Error 403: Blocked",
+        "playback_confirmed": false,
+        "page_metadata": {},
+        "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check."
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "status": "No thumbnail supplied; site shows title fallback."
+      }
     },
     {
       "id": "yt-3wGqRpCSsas",
       "url": "https://www.youtube.com/watch?v=3wGqRpCSsas",
       "platform": "YouTube",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true.",
+      "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.globalnerdy.com/2026/11/10/because-someone-asked-a-jensen-huang-picdump/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=3wGqRpCSsas",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=3wGqRpCSsas",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Rovskysound ",
+          "author_url": "https://www.youtube.com/@Rovskysound",
+          "title": "Nvidia CEO Jensen Huang and Chinese Spy?😂😉 #funny #memes #nvidia",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/3wGqRpCSsas/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "Nvidia CEO Jensen Huang and Chinese Spy?😂😉 #funny #memes #nvidia",
+          "og:description": "Nvidia CEO Jensen Huang and Chinese Spy? This is why Elon Musk started making chips",
+          "og:url": "https://www.youtube.com/shorts/3wGqRpCSsas",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-10T05:15:31-08:00"
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/3wGqRpCSsas/hqdefault.jpg",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "yt-Ij0pS33FCL4",
       "url": "https://www.youtube.com/watch?v=Ij0pS33FCL4",
       "platform": "YouTube",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true.",
+      "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.globalnerdy.com/2026/11/10/because-someone-asked-a-jensen-huang-picdump/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=Ij0pS33FCL4",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=Ij0pS33FCL4",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Blank Peng",
+          "author_url": "https://www.youtube.com/@blankpeng404",
+          "title": "Nvidia's CEO Jensen Huang affaired with Chinese spy #jensenhuang #nvidia #china #fyi  #comedy #meme",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/Ij0pS33FCL4/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "Nvidia's CEO Jensen Huang affaired with Chinese spy #jensenhuang #nvidia #china #fyi  #comedy #meme",
+          "og:description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "og:url": "https://www.youtube.com/shorts/Ij0pS33FCL4",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-09T16:16:30-08:00"
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/Ij0pS33FCL4/hqdefault.jpg",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "yt-lBFXmJnJH3M",
       "url": "https://www.youtube.com/watch?v=lBFXmJnJH3M",
       "platform": "YouTube",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true.",
+      "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.globalnerdy.com/2026/11/10/because-someone-asked-a-jensen-huang-picdump/",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=lBFXmJnJH3M",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=lBFXmJnJH3M",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Aria Radnia",
+          "author_url": "https://www.youtube.com/@aria.radnia",
+          "title": "we got GENERATIONAL memes in the past 24 hrs",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/lBFXmJnJH3M/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "we got GENERATIONAL memes in the past 24 hrs",
+          "og:description": "Fiscal.ai 7 day free trial + 15% off any paid plans →  https://fiscal.ai/?via=ariaSee my live portfolio (free to join) → https://getblossom.onelink.me/SOfu/a...",
+          "og:url": "https://www.youtube.com/watch?v=lBFXmJnJH3M",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-10T00:29:11-08:00"
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/lBFXmJnJH3M/hqdefault.jpg",
+        "http_status": 200,
+        "content_type": "image/jpeg",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "x-2119685908094148859",
       "url": "https://x.com/kalshitkalshi/status/2119685908094148859",
       "platform": "X",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/kalshitkalshi/status/2119685908094148859",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/kalshitkalshi/status/2119685908094148859",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "ukdicha modak",
+          "author_url": "https://x.com/kalshitkalshi",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "ukdicha modak (@kalshitkalshi) on X",
+          "og:description": "jensen huang (nvidia ceo) finding out his fling alice huang has been a chinese intelligence asset this whole time",
+          "og:url": "https://x.com/kalshitkalshi/status/2119685908094148859",
+          "article:published_time": "2026-11-09T06:57:57.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119685843254468608/img/7dtWw5jE3ooYerGB?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "x-2119812985166434588",
       "url": "https://x.com/Memeswalimulagi/status/2119812985166434588",
       "platform": "X",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required. Film identification follows the linked roundup, not frame-by-frame review.",
       "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/Memeswalimulagi/status/2119812985166434588",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/Memeswalimulagi/status/2119812985166434588",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Ankita",
+          "author_url": "https://x.com/Memeswalimulagi",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Ankita (@Memeswalimulagi) on X",
+          "og:description": "Jensen Huang had an affair with a Chinese spy 🇺🇸🇨🇳",
+          "og:url": "https://x.com/Memeswalimulagi/status/2119812985166434588",
+          "article:published_time": "2026-11-09T15:22:54.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119812963238612992/img/mIngHYU2LTAsGj34?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "x-2120150482627047540",
       "url": "https://x.com/HasnaZaruriHai/status/2120150482627047540",
       "platform": "X",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/HasnaZaruriHai/status/2120150482627047540",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/HasnaZaruriHai/status/2120150482627047540",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "HasnaZarooriHai🇮🇳",
+          "author_url": "https://x.com/HasnaZaruriHai",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "HasnaZarooriHai🇮🇳 (@HasnaZaruriHai) on X",
+          "og:description": "Jensen Huang, CEO of NVIDIA when he reached home 😂😂😂",
+          "og:url": "https://x.com/HasnaZaruriHai/status/2120150482627047540",
+          "article:published_time": "2026-11-10T13:44:00.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2120014676243447808/img/VM2Nwfc6zHm5hUdN?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "x-2120091554987868389",
       "url": "https://x.com/rahulnanda86/status/2120091554987868389",
       "platform": "X",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.indiatimes.com/trending/did-salman-khans-ek-tha-tiger-predict-jensen-huangs-controversy-indians-react-to-nvidia-ceos-alleged-affair-with-chinese-spy-alice-huang/articleshow/135714433.html",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/rahulnanda86/status/2120091554987868389",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/rahulnanda86/status/2120091554987868389",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Rahul Nanda",
+          "author_url": "https://x.com/rahulnanda86",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Rahul Nanda (@rahulnanda86) on X",
+          "og:description": "Aaj kal tere mere pyar ke,\n\nCharche har zubaan par,\n\nSab ko maloom hai aur,\n\nSabko khabar ho gayi..\n\nJensen Huang's Bollywood love story.",
+          "og:url": "https://x.com/rahulnanda86/status/2120091554987868389",
+          "article:published_time": "2026-11-10T09:49:50.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2120091450117623808/img/5W9DAvJazkHBNIgI?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "x-2120139616221311040",
       "url": "https://x.com/rahulnanda86/status/2120139616221311040",
       "platform": "X",
-      "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.indiatimes.com/trending/did-salman-khans-ek-tha-tiger-predict-jensen-huangs-controversy-indians-react-to-nvidia-ceos-alleged-affair-with-chinese-spy-alice-huang/articleshow/135714433.html",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://x.com/rahulnanda86/status/2120139616221311040",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/rahulnanda86/status/2120139616221311040",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Rahul Nanda",
+          "author_url": "https://x.com/rahulnanda86",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "Rahul Nanda (@rahulnanda86) on X",
+          "og:description": "Ek Garam Chai Ki Pyaali Ho…\nKoi Usko Pilaane Waali Ho…\n\nJensen Huang living it up in Bollywood.",
+          "og:url": "https://x.com/rahulnanda86/status/2120139616221311040",
+          "article:published_time": "2026-11-10T13:00:49.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2120139508259917824/img/oBt19N1WzErVAF8t?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "x-2119699166255595565",
       "url": "https://x.com/JamesAI/status/2119699166255595565",
       "platform": "X",
-      "verification": "Original page and official oEmbed returned HTTP 200; oEmbed language zh. Not manually played.",
+      "verification": "Checked November 15, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.malaymail.com/news/life/2026/11/10/ai-bites-back-nvidia-boss-jensen-huangs-affair-scandal-sparks-memes-from-coldplay-kiss-cam-to-ushers-confessions/242706",
       "alternatives": [
         {
           "url": "https://www.youtube.com/watch?v=0pZIyFSBSLA",
           "platform": "YouTube",
           "creator": "Futurix",
-          "verification": "Official oEmbed and original page returned HTTP 200; post/video identity confirmed. Playback not manually watched. YouTube player metadata reports OK and playableInEmbed=true."
+          "verification": "Checked November 15, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched."
         }
-      ]
+      ],
+      "latest_check": {
+        "url": "https://x.com/JamesAI/status/2119699166255595565",
+        "checked_on": "2026-11-15",
+        "http_status": 200,
+        "resolved_url": "https://x.com/JamesAI/status/2119699166255595565",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "在悉尼和稀泥",
+          "author_url": "https://x.com/JamesAI",
+          "type": "rich"
+        },
+        "page_metadata": {
+          "og:title": "在悉尼和稀泥 (@JamesAI) on X",
+          "og:description": "iPhone Duo简直是phone of meme。要壁纸的评论区👇\n\n#jensen #JensenHuang",
+          "og:url": "https://x.com/JamesAI/status/2119699166255595565",
+          "article:published_time": "2026-11-09T07:50:37.000Z",
+          "og:type": "article"
+        }
+      },
+      "alternate_checks": [
+        {
+          "url": "https://www.youtube.com/watch?v=0pZIyFSBSLA",
+          "checked_on": "2026-11-15",
+          "http_status": 200,
+          "resolved_url": "https://www.youtube.com/watch?v=0pZIyFSBSLA",
+          "playback_confirmed": false,
+          "oembed": {
+            "author_name": "Futurix",
+            "author_url": "https://www.youtube.com/@Futurix.technology",
+            "title": "Jensen Huang’s Viral iPhone Duo Meme 😂 | NVIDIA CEO Controversy",
+            "type": "video",
+            "thumbnail_url": "https://i.ytimg.com/vi/0pZIyFSBSLA/hqdefault.jpg"
+          },
+          "page_metadata": {
+            "og:title": "Jensen Huang’s Viral iPhone Duo Meme 😂 | NVIDIA CEO Controversy",
+            "og:description": "NVIDIA CEO Jensen Huang is making headlines after admitting in a message to employees that he was unfaithful to his wife and apologising to his family and co...",
+            "og:url": "https://www.youtube.com/shorts/0pZIyFSBSLA",
+            "og:type": "video.other"
+          },
+          "player_metadata": {
+            "status": "OK",
+            "playableInEmbed": true
+          },
+          "published_at": "2026-11-09T11:06:51-08:00"
+        }
+      ],
+      "thumbnail_check": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2119699077541847040/img/IXp0yrO6S4q14cUc?format=webp&name=large",
+        "http_status": 200,
+        "content_type": "image/webp",
+        "bytes_sampled": 1024
+      }
     },
     {
       "id": "reddit-1xufjjj",
       "url": "https://www.reddit.com/r/GottaGoStarbucks/comments/1xufjjj/jensen_huang_ver_of_the_famous_korean_kimchi_slap/",
       "platform": "Reddit",
-      "verification": "Public Reddit post rendered through web tool with matching title, uploader, media poster and Korean caption. Independent news coverage documents meme format. Reddit direct JSON blocked; playback not independently tested.",
+      "verification": "Rechecked November 15, 2026: public indexed post still identifies the uploader and media preview (search crawl November 12–13). Direct Reddit access returned HTTP 403, so current live availability and playback remain unconfirmed; this is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.asiae.co.kr/en/article/2026111214050124983",
-      "alternatives": []
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.reddit.com/r/GottaGoStarbucks/comments/1xufjjj/jensen_huang_ver_of_the_famous_korean_kimchi_slap/",
+        "checked_on": "2026-11-15",
+        "error": "HTTP Error 403: Blocked",
+        "playback_confirmed": false,
+        "page_metadata": {},
+        "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check."
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "status": "No thumbnail supplied; site shows title fallback."
+      }
     }
-  ]
+  ],
+  "refresh_summary": {
+    "date": "2026-11-15",
+    "previous_successful_collection_date": "2026-11-12",
+    "added_ids": [
+      "snl-cia-meeting",
+      "midcareer-job-interview",
+      "basketball-outplayed",
+      "wazzzzzup-jensen",
+      "everyone-needs-gpus"
+    ],
+    "added_alternatives": 1,
+    "removed_ids": [],
+    "confirmed_broken_links": 0,
+    "verification_limits": [
+      "No complete playback independently watched.",
+      "Six Reddit posts block direct requests; indexed evidence is older, so live availability is unconfirmed.",
+      "Four Reddit thumbnail requests returned 403; preserve URLs and existing visual fallbacks.",
+      "Instagram preview URLs may expire. No Instagram embed is offered.",
+      "Dates are platform-reported post dates; YouTube dates retain the date in its published timestamp."
+    ]
+  }
 }
