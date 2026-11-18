@@ -31,3 +31,14 @@
 - Checked 38 collection thumbnails: 34 succeeded; four Reddit previews remain blocked, retaining existing visual fallbacks. Instagram's stored preview still works.
 - Discovery covered X/YouTube/Reddit and public roundups, Hollywood, Bollywood, Korean and Chinese-language queries, political/Trump/Downfall satire, sports, music and tech. The music candidate Secret Asian Man and a new IndianStockMarket repost remain deferred because the format or provenance is insufficiently verified; no category was padded.
 - Preserved the November 15 indexed Reddit evidence and its older crawl limits. Branding, icon, social preview and website code unchanged. Per-source evidence and deferred URLs are recorded in link-verification.json.
+
+## 2026-11-18 — daily refresh
+
+- Fetched origin/main; clean checkout already synchronized. Previous successful refresh: November 17.
+- Added three distinct entries: CreatorSet Media's LeBron-style pre-game intro (13 seconds), its Mourinho interview recreation (15 seconds), and Skyebrows' NVIDIA music video (239 seconds). Total: 43 entries, four grouped alternate uploads. Sports references and fictional storylines are explicitly labeled; comeback/hiring captions are not presented as news.
+- Official watch pages, uploader credits, post dates, durations, oEmbed, thumbnails and player status checked. All three report OK and embeddable. Skyebrows' classification is additionally supported by the Know Your Meme entry and uploader's music/collaborator credits. No full playback independently watched.
+- LeBron upload: November 17 at 09:50 Pacific, after the last refresh. Mourinho: November 17 at 04:50; Skyebrows: November 15. These last two are newly discovered archive additions, not newly posted today. Dates retain the platform's published timestamp date.
+- Rechecked all 44 existing source URLs: 38 returned matching metadata, six Reddit direct requests returned 403. All existing YouTube player records report OK and embeddable. No confirmed broken existing links, replacements or removals.
+- Checked 41 collection thumbnails: 37 succeeded, four Reddit previews remain blocked and retain existing fallbacks. Stored Instagram preview still works. Previous indexed Reddit evidence remains dated November 15, with its older crawl limits.
+- Searched across cinema/culture, Bollywood, Korean/Chinese-language, political/Trump/Downfall, sports, music and tech using X/YouTube/Reddit discovery and public roundups. A new DunderMifflin post remains deferred for uncertain media provenance. A Chinese-language discovery page resolved to an older index; no exact video URL was invented. No category padding or duplicate football upload was added.
+- Branding, icon, social preview and website code unchanged. Detailed evidence and verification limits are in link-verification.json.
