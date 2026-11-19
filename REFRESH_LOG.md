@@ -42,3 +42,13 @@
 - Checked 41 collection thumbnails: 37 succeeded, four Reddit previews remain blocked and retain existing fallbacks. Stored Instagram preview still works. Previous indexed Reddit evidence remains dated November 15, with its older crawl limits.
 - Searched across cinema/culture, Bollywood, Korean/Chinese-language, political/Trump/Downfall, sports, music and tech using X/YouTube/Reddit discovery and public roundups. A new DunderMifflin post remains deferred for uncertain media provenance. A Chinese-language discovery page resolved to an older index; no exact video URL was invented. No category padding or duplicate football upload was added.
 - Branding, icon, social preview and website code unchanged. Detailed evidence and verification limits are in link-verification.json.
+
+## 2026-11-19 — daily refresh
+
+- Fetched origin/main; clean checkout already synchronized. Previous successful refresh: November 18.
+- Added CreatorSet Media's 25-second car-monologue parody (WgYCAmeDc24), published November 19 at 02:37 Pacific. Total: 44 entries, four grouped alternate uploads. The fictional message is not presented as a real Jensen statement.
+- Official watch page, uploader, published timestamp, duration, thumbnail, oEmbed and player status checked; player metadata reports OK and embeddable. The description credits atanga_bismark (TikTok) and thewarrior1010 (Instagram) for the source template; these are retained as uploader credits, not independently verified authorship. No complete playback independently watched.
+- Rechecked all 47 existing source URLs: 41 returned metadata and six Reddit direct requests returned 403. All existing YouTube player records report OK and embeddable. No confirmed broken links, replacements or removals.
+- Checked 42 collection thumbnails: 38 succeeded; four Reddit previews remain blocked and retain existing visual fallbacks. Stored Instagram preview still works. Older Reddit indexed evidence is explicitly dated November 15, not labeled as a fresh live check.
+- Discovery included English, Chinese and Korean queries; cinema/culture, Bollywood, political/Trump/Downfall, sports, music and tech; X, YouTube, Reddit and public roundups. New AFP coverage and The Ankler's public excerpt supplied context, without a further verifiable exact creator upload. Ordinary news, recirculated formats and unsupported candidates were excluded; no entries or original-source URLs were invented.
+- Branding, icon, social preview and website code unchanged. Per-source evidence and remaining verification limits are recorded in link-verification.json.
