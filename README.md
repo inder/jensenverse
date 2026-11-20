@@ -14,7 +14,7 @@ Search, category/platform/format filters, curated/newest order, saved items stor
 
 ## Verification
 
-Metadata and links rechecked November 19, 2026. `data.json` contains per-entry source and verification notes; `link-verification.json` records the audit. X original pages and official oEmbed records were checked. YouTube metadata reported playable, embeddable videos at check time. Reddit entries retain matching public indexed posts and media previews last reviewed November 15, but November 19 direct requests were blocked; current live availability is unconfirmed. Instagram is a source link with public metadata and supporting coverage; its playback and embedding were not tested. Full playback was not independently watched. Availability, thumbnails and regional playback can change.
+Metadata and links rechecked November 20, 2026. `data.json` contains per-entry source and verification notes; `link-verification.json` records the audit. X original pages and official oEmbed records were checked. YouTube metadata reported playable, embeddable videos at check time. Reddit entries retain matching public indexed posts and media previews last reviewed November 15, but November 20 direct requests were blocked; current live availability is unconfirmed. Instagram is a source link with public metadata and supporting coverage; its playback and embedding were not tested. One uploader-deleted YouTube entry was retired on November 20; its evidence is retained in the audit. The Instagram thumbnail was refreshed from the original Reel metadata. Full playback was not independently watched. Availability, thumbnails and regional playback can change.
 
 ## Hosting and editing
 
