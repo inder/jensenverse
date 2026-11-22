@@ -1,12 +1,99 @@
 {
-  "checked_on": "2026-11-21",
-  "method": "Direct public page metadata and official X/YouTube oEmbed rechecked November 21; YouTube player status checked. Instagram public Reel metadata checked. Six Reddit URLs block direct requests; their indexed evidence was last reviewed November 15. No complete playback independently watched.",
+  "checked_on": "2026-11-22",
+  "method": "Direct public page metadata and official X/YouTube oEmbed rechecked November 22; YouTube player status checked. Instagram public Reel metadata checked. Six Reddit URLs block direct requests; their indexed evidence was last reviewed November 15. No complete playback independently watched.",
   "items": [
+    {
+      "id": "couples-therapy-laughter",
+      "url": "https://www.youtube.com/watch?v=J7jgxbnA79A",
+      "platform": "YouTube",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the uploader and November 21 publication. Player metadata reports OK and embeddable. Full playback not independently watched. The uploader identifies the laughing-therapist template and explicitly labels it AI parody. Divorce figures belong to the fictional storyline.",
+      "source": "https://www.youtube.com/watch?v=J7jgxbnA79A",
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=J7jgxbnA79A",
+        "checked_on": "2026-11-22",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=J7jgxbnA79A",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "CreatorSet Media",
+          "author_url": "https://www.youtube.com/@CreatorSetMedia",
+          "title": "Jensen Huang's wife at couples therapy after realizing the divorce would get her $80 billion 😭🙏",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/J7jgxbnA79A/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "Jensen Huang's wife at couples therapy after realizing the divorce would get her $80 billion 😭🙏",
+          "og:description": "Jensen Huang's wife at couples therapy after realizing the divorce would get her $80 billion 😭🙏#jensenhuang #chinesespy #nvidia #memes #aiMade with Creator...",
+          "og:url": "https://www.youtube.com/shorts/J7jgxbnA79A",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-21T10:30:55-08:00",
+        "format_evidence": "Uploader description identifies the laughing-therapist template and labels this AI parody, not real footage. No settlement amount is verified."
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/J7jgxbnA79A/hqdefault.jpg",
+        "checked_on": "2026-11-22",
+        "http_status": 200,
+        "content_type": "image/jpeg"
+      }
+    },
+    {
+      "id": "kym-meme-wave-explained",
+      "url": "https://www.youtube.com/watch?v=tJIbaJbmVuE",
+      "platform": "YouTube",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the uploader and November 21 publication. Player metadata reports OK and embeddable. Full playback not independently watched. The official description and chapters identify a meme explainer; the AI-memes section begins at 3:40. Duration refers to the full 10:49 upload.",
+      "source": "https://www.youtube.com/watch?v=tJIbaJbmVuE",
+      "alternatives": [],
+      "latest_check": {
+        "url": "https://www.youtube.com/watch?v=tJIbaJbmVuE",
+        "checked_on": "2026-11-22",
+        "http_status": 200,
+        "resolved_url": "https://www.youtube.com/watch?v=tJIbaJbmVuE",
+        "playback_confirmed": false,
+        "oembed": {
+          "author_name": "Know Your Meme",
+          "author_url": "https://www.youtube.com/@KnowYourMeme",
+          "title": "Jensen Huang and the Chinese Spy Memes, Explained",
+          "type": "video",
+          "thumbnail_url": "https://i.ytimg.com/vi/tJIbaJbmVuE/hqdefault.jpg"
+        },
+        "page_metadata": {
+          "og:title": "Jensen Huang and the Chinese Spy Memes, Explained",
+          "og:description": "In November 2026, Nvidia CEO Jensen Huang admitted to an affair with a woman U.S. intelligence had reportedly identified as a Chinese spy. Within days he had...",
+          "og:url": "https://www.youtube.com/watch?v=tJIbaJbmVuE",
+          "og:type": "video.other"
+        },
+        "player_metadata": {
+          "status": "OK",
+          "playableInEmbed": true
+        },
+        "published_at": "2026-11-21T10:23:52-08:00",
+        "segment": {
+          "starts_at_seconds": 220,
+          "evidence": "Official YouTube description chapter list: AI memes",
+          "full_upload_duration_seconds": 649
+        },
+        "format_evidence": "Publisher description and chapter list identify an explainer/review rather than a standalone parody."
+      },
+      "alternate_checks": [],
+      "thumbnail_check": {
+        "url": "https://i.ytimg.com/vi/tJIbaJbmVuE/hqdefault.jpg",
+        "checked_on": "2026-11-22",
+        "http_status": 200,
+        "content_type": "image/jpeg"
+      }
+    },
     {
       "id": "future-low-life",
       "url": "https://www.youtube.com/watch?v=Boc7svZRphg",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify CreatorSet Media and a November 19 upload. The uploader names Low Life by Future featuring The Weeknd and explicitly labels the clip an AI parody. Player metadata reports OK and embeddable. Duration is 10 seconds in videoDetails, rounded to 11 in microformat. Full playback not independently watched. Discovered November 20; not a claim of publication after the previous refresh.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify CreatorSet Media and a November 19 upload. The uploader names Low Life by Future featuring The Weeknd and explicitly labels the clip an AI parody. Player metadata reports OK and embeddable. Duration is 10 seconds in videoDetails, rounded to 11 in microformat. Full playback not independently watched. Discovered November 20; not a claim of publication after the previous refresh.",
       "source": "https://www.youtube.com/watch?v=Boc7svZRphg",
       "alternatives": [],
       "latest_check": {
@@ -34,7 +121,7 @@
         },
         "format_evidence": "Uploader description identifies a Low Life lip-sync and labels it AI parody, not real footage.",
         "url": "https://www.youtube.com/watch?v=Boc7svZRphg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=Boc7svZRphg",
         "playback_confirmed": false
@@ -42,7 +129,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/Boc7svZRphg/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -51,7 +138,7 @@
       "id": "car-message-to-haters",
       "url": "https://www.youtube.com/watch?v=WgYCAmeDc24",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify CreatorSet Media, a November 19 upload and a 25-second video. The uploader labels it an AI parody and supplies the source-meme credits; those original template accounts were not independently verified. Player metadata reports OK and embeddable. Full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify CreatorSet Media, a November 19 upload and a 25-second video. The uploader labels it an AI parody and supplies the source-meme credits; those original template accounts were not independently verified. Player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.youtube.com/watch?v=WgYCAmeDc24",
       "alternatives": [],
       "latest_check": {
@@ -81,7 +168,7 @@
           "independently_verified": false
         },
         "url": "https://www.youtube.com/watch?v=WgYCAmeDc24",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=WgYCAmeDc24",
         "playback_confirmed": false
@@ -89,7 +176,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/WgYCAmeDc24/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -98,7 +185,7 @@
       "id": "lebron-pregame-intro",
       "url": "https://www.youtube.com/watch?v=9jRMmFYeJ6k",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify uploader, date, duration and thumbnail. Player metadata reports OK and embeddable. Full playback not independently watched. The uploader explicitly identifies the sports reference and labels the clip an AI parody.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify uploader, date, duration and thumbnail. Player metadata reports OK and embeddable. Full playback not independently watched. The uploader explicitly identifies the sports reference and labels the clip an AI parody.",
       "source": "https://www.youtube.com/watch?v=9jRMmFYeJ6k",
       "alternatives": [],
       "latest_check": {
@@ -121,7 +208,7 @@
         },
         "published_at": "2026-11-17T09:50:50-08:00",
         "url": "https://www.youtube.com/watch?v=9jRMmFYeJ6k",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=9jRMmFYeJ6k",
         "playback_confirmed": false
@@ -129,7 +216,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/9jRMmFYeJ6k/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -138,7 +225,7 @@
       "id": "mourinho-no-pressure",
       "url": "https://www.youtube.com/watch?v=ir_2PxFiOAU",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify uploader, date, duration and thumbnail. Player metadata reports OK and embeddable. Full playback not independently watched. The uploader explicitly identifies the sports reference and labels the clip an AI parody.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify uploader, date, duration and thumbnail. Player metadata reports OK and embeddable. Full playback not independently watched. The uploader explicitly identifies the sports reference and labels the clip an AI parody.",
       "source": "https://www.youtube.com/watch?v=ir_2PxFiOAU",
       "alternatives": [],
       "latest_check": {
@@ -161,7 +248,7 @@
         },
         "published_at": "2026-11-17T04:50:18-08:00",
         "url": "https://www.youtube.com/watch?v=ir_2PxFiOAU",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=ir_2PxFiOAU",
         "playback_confirmed": false
@@ -169,7 +256,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/ir_2PxFiOAU/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -178,7 +265,7 @@
       "id": "skyebrows-nvidia-music",
       "url": "https://www.youtube.com/watch?v=Qik_AY9jv2s",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify uploader, date, duration and thumbnail. Player metadata reports OK and embeddable. Full playback not independently watched. Music-video and AI classification also supported by the linked Know Your Meme entry; discovered November 18, uploaded November 15.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify uploader, date, duration and thumbnail. Player metadata reports OK and embeddable. Full playback not independently watched. Music-video and AI classification also supported by the linked Know Your Meme entry; discovered November 18, uploaded November 15.",
       "source": "https://knowyourmeme.com/videos/441252-nvidia-ceo-jensen-huang-chinese-spy-cheating-controversy",
       "alternatives": [],
       "latest_check": {
@@ -201,7 +288,7 @@
         },
         "published_at": "2026-11-15T11:24:22-08:00",
         "url": "https://www.youtube.com/watch?v=Qik_AY9jv2s",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=Qik_AY9jv2s",
         "playback_confirmed": false
@@ -209,7 +296,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/Qik_AY9jv2s/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -218,7 +305,7 @@
       "id": "football-missed-header",
       "url": "https://www.youtube.com/watch?v=I8oX7HAuFCY",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the uploader, post date and video. Player metadata reports OK and embeddable. Full playback not independently watched. This accessible upload is distinct from the two removed URLs excluded on November 16; it is counted once.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the uploader, post date and video. Player metadata reports OK and embeddable. Full playback not independently watched. This accessible upload is distinct from the two removed URLs excluded on November 16; it is counted once.",
       "source": "https://www.youtube.com/watch?v=I8oX7HAuFCY",
       "alternatives": [],
       "latest_check": {
@@ -241,7 +328,7 @@
         },
         "published_at": "2026-11-16T03:44:45-08:00",
         "url": "https://www.youtube.com/watch?v=I8oX7HAuFCY",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=I8oX7HAuFCY",
         "playback_confirmed": false
@@ -249,7 +336,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/I8oX7HAuFCY/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -258,7 +345,7 @@
       "id": "jon-stewart-comeback",
       "url": "https://www.youtube.com/watch?v=now0emhNT4A",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the uploader, post date and video. Player metadata reports OK and embeddable. Full playback not independently watched. The publisher’s chapter list places the Jensen segment at 11:32; duration refers to the full monologue.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the uploader, post date and video. Player metadata reports OK and embeddable. Full playback not independently watched. The publisher’s chapter list places the Jensen segment at 11:32; duration refers to the full monologue.",
       "source": "https://www.youtube.com/watch?v=now0emhNT4A",
       "alternatives": [],
       "latest_check": {
@@ -286,7 +373,7 @@
           "full_upload_duration_seconds": 1287
         },
         "url": "https://www.youtube.com/watch?v=now0emhNT4A",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=now0emhNT4A",
         "playback_confirmed": false
@@ -294,7 +381,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/now0emhNT4A/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -303,7 +390,7 @@
       "id": "blade-runner-you-look-lonely",
       "url": "https://www.youtube.com/watch?v=WgVPZyFO4OY",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify CreatorSet Media and a 14-second upload. The uploader identifies the Blade Runner 2049 reference and labels the clip an AI parody. Player metadata reports OK and embeddable; full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify CreatorSet Media and a 14-second upload. The uploader identifies the Blade Runner 2049 reference and labels the clip an AI parody. Player metadata reports OK and embeddable; full playback not independently watched.",
       "source": "https://www.youtube.com/watch?v=WgVPZyFO4OY",
       "alternatives": [],
       "latest_check": {
@@ -326,7 +413,7 @@
         },
         "published_at": "2026-11-15T09:31:14-08:00",
         "url": "https://www.youtube.com/watch?v=WgVPZyFO4OY",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=WgVPZyFO4OY",
         "playback_confirmed": false
@@ -334,7 +421,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/WgVPZyFO4OY/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -343,14 +430,14 @@
       "id": "snl-cia-meeting",
       "url": "https://www.youtube.com/watch?v=R_8UPhJNrZ4",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.thewrap.com/creative-content/tv-shows/snl-cold-open-bowen-yang-return-jensen-huang-nvidia-john-mulaney/",
       "alternatives": [
         {
           "url": "https://x.com/nbcsnl/status/2121827093017415989",
           "platform": "X",
           "creator": "Saturday Night Live (@nbcsnl)",
-          "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required. Official SNL post for the same sketch; not a separate entry."
+          "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required. Official SNL post for the same sketch; not a separate entry."
         }
       ],
       "latest_check": {
@@ -373,7 +460,7 @@
         },
         "published_at": "2026-11-14T21:15:45-08:00",
         "url": "https://www.youtube.com/watch?v=R_8UPhJNrZ4",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=R_8UPhJNrZ4",
         "playback_confirmed": false
@@ -393,7 +480,7 @@
             "og:type": "article"
           },
           "url": "https://x.com/nbcsnl/status/2121827093017415989",
-          "checked_on": "2026-11-21",
+          "checked_on": "2026-11-22",
           "http_status": 200,
           "resolved_url": "https://x.com/nbcsnl/status/2121827093017415989",
           "playback_confirmed": false
@@ -401,7 +488,7 @@
       ],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/R_8UPhJNrZ4/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -410,7 +497,7 @@
       "id": "midcareer-job-interview",
       "url": "https://x.com/holdonyourrope/status/2121067304876490914",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://life.tw/article/黃仁勳離職後-中年轉職真的難-網友ai惡搞求職影片-3218497",
       "alternatives": [],
       "latest_check": {
@@ -432,7 +519,7 @@
           "evidence": "Public X page serialized media metadata; video_info and duration_millis present."
         },
         "url": "https://x.com/holdonyourrope/status/2121067304876490914",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/holdonyourrope/status/2121067304876490914",
         "playback_confirmed": false
@@ -440,7 +527,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2121067222982660096/img/DuQ-h-1Ew-ZhO9Co?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -449,13 +536,13 @@
       "id": "basketball-outplayed",
       "url": "https://www.instagram.com/reel/DfovH9exmGS/",
       "platform": "Instagram",
-      "verification": "Checked November 21, 2026: public Reel page metadata identifies Sidereal Studio (@sidereal.studio), November 12 upload and preview image. PCWorld identifies the basketball parody. Original authorship not independently established; playback and embedding not tested. Instagram sign-in may be required. The stored thumbnail returned 403; a fresh image URL from the same Reel metadata returned 200 on November 20.",
+      "verification": "Checked November 22, 2026: public Reel page metadata identifies Sidereal Studio (@sidereal.studio), November 12 upload and preview image. PCWorld identifies the basketball parody. Original authorship not independently established; playback and embedding not tested. Instagram sign-in may be required. The stored thumbnail returned 403; a fresh image URL from the same Reel metadata returned 200 on November 20.",
       "source": "https://www.pcworld.com/article/3285968/the-jensen-huang-memes-is-this-ai-grievance-or-ai-embrace.html",
       "alternatives": [],
       "latest_check": {
         "page_metadata": {
           "og:title": "Sidereal Studio on Instagram: \"Bro got outplayed by CCP🥶\nFollow for AI memes.\n#jensenhuang #nvidia #kimberlypowell #lorihuang #spy\"",
-          "og:description": "19K likes, 62 comments - sidereal.studio on November 12, 2026: \"Bro got outplayed by CCP🥶\nFollow for AI memes.\n#jensenhuang #nvidia #kimberlypowell #lorihuang #spy\". ",
+          "og:description": "19K likes, 63 comments - sidereal.studio on November 12, 2026: \"Bro got outplayed by CCP🥶\nFollow for AI memes.\n#jensenhuang #nvidia #kimberlypowell #lorihuang #spy\". ",
           "og:url": "https://www.instagram.com/sidereal.studio/reel/DfovH9exmGS/",
           "og:type": "article"
         },
@@ -465,7 +552,7 @@
           "date_evidence": "Public og:description gives November 12, 2026."
         },
         "url": "https://www.instagram.com/reel/DfovH9exmGS/",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.instagram.com/reel/DfovH9exmGS/",
         "playback_confirmed": false
@@ -473,7 +560,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/900856222_17940592872164098_1079519787816698817_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Y-k-hKTrwfIQ7kNvwGhuMhe&_nc_oc=Adrhqt54e8ZpOaHGqKxmEKfQjHp9jBKZK9MB7O9KaW79ykmiYFTrXrEHuAOoRvOqD1U&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_gid=RzYZOl2ujeSO6pMj6hgn_w&_nc_ss=7960f&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQm5GGBOWQ4vC7tG15aZhN9quOgUI024QEGX_oCSIyp2w&oe=6B063E94",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -482,7 +569,7 @@
       "id": "wazzzzzup-jensen",
       "url": "https://x.com/TheUnitedSpot__/status/2121260807367557139",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://theloftusparty.com/2026/11/14/the-week-in-memes-big-tech-big-dreck/",
       "alternatives": [],
       "latest_check": {
@@ -504,7 +591,7 @@
           "evidence": "Public X page serialized media metadata; video_info and duration_millis present."
         },
         "url": "https://x.com/TheUnitedSpot__/status/2121260807367557139",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/TheUnitedSpot__/status/2121260807367557139",
         "playback_confirmed": false
@@ -512,7 +599,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/media/HXA7WtCbEAAeuXh?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -521,7 +608,7 @@
       "id": "everyone-needs-gpus",
       "url": "https://www.youtube.com/watch?v=U4ALVssJxD4",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.youtube.com/watch?v=U4ALVssJxD4",
       "alternatives": [],
       "latest_check": {
@@ -544,7 +631,7 @@
         },
         "published_at": "2026-11-12T21:51:23-08:00",
         "url": "https://www.youtube.com/watch?v=U4ALVssJxD4",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=U4ALVssJxD4",
         "playback_confirmed": false
@@ -552,7 +639,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/U4ALVssJxD4/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -561,14 +648,14 @@
       "id": "500-days",
       "url": "https://x.com/tQuietEngineer/status/2119687115428798784",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [
         {
           "url": "https://www.youtube.com/watch?v=Q0ng2xIhoJE",
           "platform": "YouTube",
           "creator": "Black Eyes",
-          "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched."
+          "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched."
         }
       ],
       "latest_check": {
@@ -585,7 +672,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/tQuietEngineer/status/2119687115428798784",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/tQuietEngineer/status/2119687115428798784",
         "playback_confirmed": false
@@ -611,7 +698,7 @@
           },
           "published_at": "2026-11-09T07:25:57-08:00",
           "url": "https://www.youtube.com/watch?v=Q0ng2xIhoJE",
-          "checked_on": "2026-11-21",
+          "checked_on": "2026-11-22",
           "http_status": 200,
           "resolved_url": "https://www.youtube.com/watch?v=Q0ng2xIhoJE",
           "playback_confirmed": false
@@ -619,7 +706,7 @@
       ],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119602093426384897/img/jOaOCwSFfY-yHlVo?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -628,7 +715,7 @@
       "id": "downfall-jensen",
       "url": "https://x.com/AIandDesign/status/2119634875859018155",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://teapawt.org/vinsonleow",
       "alternatives": [],
       "latest_check": {
@@ -645,7 +732,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/AIandDesign/status/2119634875859018155",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/AIandDesign/status/2119634875859018155",
         "playback_confirmed": false
@@ -653,7 +740,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119634608354668544/img/UR3EAC45ameqntZB?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -662,7 +749,7 @@
       "id": "yt-9vhL0rX0m5A",
       "url": "https://www.youtube.com/shorts/9vhL0rX0m5A",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://classic-blog.udn.com/charlesyuen/192806309",
       "alternatives": [],
       "latest_check": {
@@ -685,7 +772,7 @@
         },
         "published_at": "2026-11-10T01:06:43-08:00",
         "url": "https://www.youtube.com/shorts/9vhL0rX0m5A",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/shorts/9vhL0rX0m5A",
         "playback_confirmed": false
@@ -693,7 +780,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/9vhL0rX0m5A/hq2.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -702,7 +789,7 @@
       "id": "x-2120007306545152297",
       "url": "https://x.com/RockstarAmit/status/2120007306545152297",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
       "alternatives": [],
       "latest_check": {
@@ -719,7 +806,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/RockstarAmit/status/2120007306545152297",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/RockstarAmit/status/2120007306545152297",
         "playback_confirmed": false
@@ -727,7 +814,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2120007244150644737/img/RVGWNuGLAB6CRVEg?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -736,7 +823,7 @@
       "id": "lODzoQD2adc",
       "url": "https://www.youtube.com/watch?v=lODzoQD2adc",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.youtube.com/watch?v=lODzoQD2adc",
       "alternatives": [],
       "latest_check": {
@@ -759,7 +846,7 @@
         },
         "published_at": "2026-11-10T09:34:29-08:00",
         "url": "https://www.youtube.com/watch?v=lODzoQD2adc",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=lODzoQD2adc",
         "playback_confirmed": false
@@ -767,7 +854,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/lODzoQD2adc/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -776,21 +863,21 @@
       "id": "spider-man-boardroom",
       "url": "https://www.reddit.com/r/raimimemes/comments/1xuel3l/using_his_own_powers_against_him/",
       "platform": "Reddit",
-      "verification": "Direct recheck November 21, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
+      "verification": "Direct recheck November 22, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/raimimemes/comments/1xuel3l/using_his_own_powers_against_him/",
       "alternatives": [],
       "latest_check": {
         "page_metadata": {},
         "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check.",
         "url": "https://www.reddit.com/r/raimimemes/comments/1xuel3l/using_his_own_powers_against_him/",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Blocked",
         "playback_confirmed": false
       },
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://external-preview.redd.it/using-his-own-powers-against-him-v0-bzRzZDNlczAyNzFpMQtPV-vaKJxhRS03aRgzwohY4k4_UQODHOMn5q-8e2Gg.png?auto=webp&crop=smart&format=pjpg&s=23a80429bb7fadf2a422433038054068403dfb7f&width=640",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Forbidden"
       }
     },
@@ -798,7 +885,7 @@
       "id": "coldplay-kiss-cam",
       "url": "https://x.com/dedene/status/2119566915022512362",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [],
       "latest_check": {
@@ -815,7 +902,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/dedene/status/2119566915022512362",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/dedene/status/2119566915022512362",
         "playback_confirmed": false
@@ -823,7 +910,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119566885465296896/img/jSIr0iNJ_io-q1qj?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -832,7 +919,7 @@
       "id": "youre-an-asset",
       "url": "https://x.com/Dogetothemoon/status/2119589714575671783",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [],
       "latest_check": {
@@ -849,7 +936,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/Dogetothemoon/status/2119589714575671783",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/Dogetothemoon/status/2119589714575671783",
         "playback_confirmed": false
@@ -857,7 +944,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119589508245278720/img/G_udp9cvEi3Ft44k?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -866,7 +953,7 @@
       "id": "usher-confessions",
       "url": "https://x.com/thomasunise/status/2119605573234970966",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [],
       "latest_check": {
@@ -883,7 +970,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/thomasunise/status/2119605573234970966",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/thomasunise/status/2119605573234970966",
         "playback_confirmed": false
@@ -891,7 +978,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119605332708081664/img/eQGolGojZHnzp92g?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -900,14 +987,14 @@
       "id": "why-deceive-you",
       "url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [
         {
           "url": "https://www.youtube.com/watch?v=QXcgKAe-5ec",
           "platform": "YouTube",
           "creator": "The Mythical Engineer",
-          "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched."
+          "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched."
         }
       ],
       "latest_check": {
@@ -924,7 +1011,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/AlexesNakamoto/status/2119711455284990402",
         "playback_confirmed": false
@@ -950,7 +1037,7 @@
           },
           "published_at": "2026-11-09T19:08:38-08:00",
           "url": "https://www.youtube.com/watch?v=QXcgKAe-5ec",
-          "checked_on": "2026-11-21",
+          "checked_on": "2026-11-22",
           "http_status": 200,
           "resolved_url": "https://www.youtube.com/watch?v=QXcgKAe-5ec",
           "playback_confirmed": false
@@ -958,7 +1045,7 @@
       ],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119710756069392384/img/ClOQII5Hpho6IxpH?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -967,7 +1054,7 @@
       "id": "kiss-cam-take-two",
       "url": "https://x.com/TrendingTrol/status/2119740720743584102",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [],
       "latest_check": {
@@ -984,7 +1071,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/TrendingTrol/status/2119740720743584102",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/TrendingTrol/status/2119740720743584102",
         "playback_confirmed": false
@@ -992,7 +1079,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119740681837010944/img/oISbia3Z95BztrgR?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1001,7 +1088,7 @@
       "id": "just-want-to-be-seen",
       "url": "https://x.com/AutismCapital/status/2120217246731792692",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221",
       "alternatives": [],
       "latest_check": {
@@ -1018,7 +1105,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/AutismCapital/status/2120217246731792692",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/AutismCapital/status/2120217246731792692",
         "playback_confirmed": false
@@ -1026,7 +1113,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2120025164284891136/img/5AJ8B4EI5jdZ_0_o?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1035,7 +1122,7 @@
       "id": "honeypot-reply",
       "url": "https://x.com/shanedk/status/2120267996983898403",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221",
       "alternatives": [],
       "latest_check": {
@@ -1052,7 +1139,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/shanedk/status/2120267996983898403",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/shanedk/status/2120267996983898403",
         "playback_confirmed": false
@@ -1060,7 +1147,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/media/HWyz2_2WwAAJnXW?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1069,7 +1156,7 @@
       "id": "bollywood-don",
       "url": "https://x.com/DesiMemesTweets/status/2120106096467886123",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.ndtvprofit.com/trending/from-huang-s-honeypot-to-a-spy-decision-tree-internet-can-t-stop-making-memes-on-the-jensen-huang-controversy-12314221",
       "alternatives": [],
       "latest_check": {
@@ -1086,7 +1173,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/DesiMemesTweets/status/2120106096467886123",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/DesiMemesTweets/status/2120106096467886123",
         "playback_confirmed": false
@@ -1094,7 +1181,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2120105883263012864/img/zbm2etpcOAOODW9n?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1103,7 +1190,7 @@
       "id": "divorce-lawyers",
       "url": "https://x.com/alifarhat79/status/2119814306963284126",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [],
       "latest_check": {
@@ -1120,7 +1207,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/alifarhat79/status/2119814306963284126",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/alifarhat79/status/2119814306963284126",
         "playback_confirmed": false
@@ -1128,7 +1215,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119814291591208960/img/H4TJyquFkxI0SCPa?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1137,7 +1224,7 @@
       "id": "boat-ride",
       "url": "https://x.com/InvestingAddict/status/2119538756915274217",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://jumponthetrend.app/trends/jensen-huang-memes-ai-trend/",
       "alternatives": [],
       "latest_check": {
@@ -1154,7 +1241,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/InvestingAddict/status/2119538756915274217",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/InvestingAddict/status/2119538756915274217",
         "playback_confirmed": false
@@ -1162,7 +1249,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119538712313024512/img/m8ORoFgJTYieSJVy?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1171,21 +1258,21 @@
       "id": "not-leaving",
       "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu4dus/he_is_not_leaving/",
       "platform": "Reddit",
-      "verification": "Direct recheck November 21, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
+      "verification": "Direct recheck November 22, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/wallstreetbets/comments/1xu4dus/he_is_not_leaving/",
       "alternatives": [],
       "latest_check": {
         "page_metadata": {},
         "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check.",
         "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu4dus/he_is_not_leaving/",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Blocked",
         "playback_confirmed": false
       },
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://external-preview.redd.it/he-is-not-leaving-v0-djZyMWs4Mnk4NDFpMfg57LWSOwvbCw-yDewkkqjG8wDGjChneLJQQUl3FmWR.jpeg?auto=webp&crop=smart&format=pjpg&s=63f5d1e4166803ef0a133c530098654054791069&width=640",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Forbidden"
       }
     },
@@ -1193,21 +1280,21 @@
       "id": "wasnt-me",
       "url": "https://www.reddit.com/r/wallstreetbets/comments/1xtzw2g/it_wasnt_me_ft_jensen/",
       "platform": "Reddit",
-      "verification": "Direct recheck November 21, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
+      "verification": "Direct recheck November 22, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/wallstreetbets/comments/1xtzw2g/it_wasnt_me_ft_jensen/",
       "alternatives": [],
       "latest_check": {
         "page_metadata": {},
         "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check.",
         "url": "https://www.reddit.com/r/wallstreetbets/comments/1xtzw2g/it_wasnt_me_ft_jensen/",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Blocked",
         "playback_confirmed": false
       },
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://external-preview.redd.it/it-wasnt-me-ft-jensen-v0-eXE1aDE3bjA1MzFpMY-VF3Zbf287oMv79TaiE4g-inRa0RXDmhlz_W08dORf.png?auto=webp&crop=smart&format=pjpg&s=ada90bb810043b9678d7fbfc3b104816199589ed&width=640",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Forbidden"
       }
     },
@@ -1215,21 +1302,21 @@
       "id": "office-arrival",
       "url": "https://www.reddit.com/r/MemeVideos/comments/1xubora/jensen_huang_entering_nvidia_office/",
       "platform": "Reddit",
-      "verification": "Direct recheck November 21, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
+      "verification": "Direct recheck November 22, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/MemeVideos/comments/1xubora/jensen_huang_entering_nvidia_office/",
       "alternatives": [],
       "latest_check": {
         "page_metadata": {},
         "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check.",
         "url": "https://www.reddit.com/r/MemeVideos/comments/1xubora/jensen_huang_entering_nvidia_office/",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Blocked",
         "playback_confirmed": false
       },
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://external-preview.redd.it/jensen-huang-entering-nvidia-office-v0-Y3MzMmE3a2NmNjFpMbKbJRAijnqoer095i1VTUB3N8Lu9CZTRj73Gq7XXOt8.jpeg?auto=webp&format=pjpg&s=bc426cc5a511c17c283d306b9965fcdd99456564",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Forbidden"
       }
     },
@@ -1237,7 +1324,7 @@
       "id": "702K2UjOM9E",
       "url": "https://www.youtube.com/watch?v=702K2UjOM9E",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://capetimes.co.za/technology/2026-11-10-nvidia-ceo-jensen-huang-roasted-online-over-spy-sex-scandal-in-parody-two-huangs-dont-make-a-right/",
       "alternatives": [],
       "latest_check": {
@@ -1260,7 +1347,7 @@
         },
         "published_at": "2026-11-09T10:27:17-08:00",
         "url": "https://www.youtube.com/watch?v=702K2UjOM9E",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=702K2UjOM9E",
         "playback_confirmed": false
@@ -1268,7 +1355,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/702K2UjOM9E/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -1277,7 +1364,7 @@
       "id": "HA0ulwcacFI",
       "url": "https://www.youtube.com/watch?v=HA0ulwcacFI",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.youtube.com/watch?v=HA0ulwcacFI",
       "alternatives": [],
       "latest_check": {
@@ -1300,7 +1387,7 @@
         },
         "published_at": "2026-11-10T18:59:23-08:00",
         "url": "https://www.youtube.com/watch?v=HA0ulwcacFI",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=HA0ulwcacFI",
         "playback_confirmed": false
@@ -1308,7 +1395,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/HA0ulwcacFI/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -1317,20 +1404,20 @@
       "id": "matrix-trump-jensen",
       "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu1ang/absolute_cinematic_reality_we_live_right_now/",
       "platform": "Reddit",
-      "verification": "Direct recheck November 21, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
+      "verification": "Direct recheck November 22, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.reddit.com/r/StableDiffusion/comments/1xujcy2/jensen_caught_in_the_matrix/",
       "alternatives": [],
       "latest_check": {
         "page_metadata": {},
         "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check.",
         "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu1ang/absolute_cinematic_reality_we_live_right_now/",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Blocked",
         "playback_confirmed": false
       },
       "alternate_checks": [],
       "thumbnail_check": {
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "status": "No thumbnail supplied; site shows title fallback."
       }
     },
@@ -1338,7 +1425,7 @@
       "id": "yt-Ij0pS33FCL4",
       "url": "https://www.youtube.com/watch?v=Ij0pS33FCL4",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.globalnerdy.com/2026/11/10/because-someone-asked-a-jensen-huang-picdump/",
       "alternatives": [],
       "latest_check": {
@@ -1361,7 +1448,7 @@
         },
         "published_at": "2026-11-09T16:16:30-08:00",
         "url": "https://www.youtube.com/watch?v=Ij0pS33FCL4",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=Ij0pS33FCL4",
         "playback_confirmed": false
@@ -1369,7 +1456,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/Ij0pS33FCL4/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -1378,7 +1465,7 @@
       "id": "yt-lBFXmJnJH3M",
       "url": "https://www.youtube.com/watch?v=lBFXmJnJH3M",
       "platform": "YouTube",
-      "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
+      "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched.",
       "source": "https://www.globalnerdy.com/2026/11/10/because-someone-asked-a-jensen-huang-picdump/",
       "alternatives": [],
       "latest_check": {
@@ -1401,7 +1488,7 @@
         },
         "published_at": "2026-11-10T00:29:11-08:00",
         "url": "https://www.youtube.com/watch?v=lBFXmJnJH3M",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://www.youtube.com/watch?v=lBFXmJnJH3M",
         "playback_confirmed": false
@@ -1409,7 +1496,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://i.ytimg.com/vi/lBFXmJnJH3M/hqdefault.jpg",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/jpeg"
       }
@@ -1418,7 +1505,7 @@
       "id": "x-2119685908094148859",
       "url": "https://x.com/kalshitkalshi/status/2119685908094148859",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
       "alternatives": [],
       "latest_check": {
@@ -1435,7 +1522,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/kalshitkalshi/status/2119685908094148859",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/kalshitkalshi/status/2119685908094148859",
         "playback_confirmed": false
@@ -1443,7 +1530,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119685843254468608/img/7dtWw5jE3ooYerGB?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1452,7 +1539,7 @@
       "id": "x-2119812985166434588",
       "url": "https://x.com/Memeswalimulagi/status/2119812985166434588",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required. Film identification follows the linked roundup, not frame-by-frame review.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required. Film identification follows the linked roundup, not frame-by-frame review.",
       "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
       "alternatives": [],
       "latest_check": {
@@ -1469,7 +1556,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/Memeswalimulagi/status/2119812985166434588",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/Memeswalimulagi/status/2119812985166434588",
         "playback_confirmed": false
@@ -1477,7 +1564,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119812963238612992/img/mIngHYU2LTAsGj34?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1486,7 +1573,7 @@
       "id": "x-2120150482627047540",
       "url": "https://x.com/HasnaZaruriHai/status/2120150482627047540",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.moneycontrol.com/news/trends/hum-chip-de-chuke-sanam-bollywood-memes-take-over-x-amid-jensen-huang-s-alleged-affair-14077118.html",
       "alternatives": [],
       "latest_check": {
@@ -1503,7 +1590,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/HasnaZaruriHai/status/2120150482627047540",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/HasnaZaruriHai/status/2120150482627047540",
         "playback_confirmed": false
@@ -1511,7 +1598,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2120014676243447808/img/VM2Nwfc6zHm5hUdN?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1520,7 +1607,7 @@
       "id": "x-2120091554987868389",
       "url": "https://x.com/rahulnanda86/status/2120091554987868389",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.indiatimes.com/trending/did-salman-khans-ek-tha-tiger-predict-jensen-huangs-controversy-indians-react-to-nvidia-ceos-alleged-affair-with-chinese-spy-alice-huang/articleshow/135714433.html",
       "alternatives": [],
       "latest_check": {
@@ -1537,7 +1624,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/rahulnanda86/status/2120091554987868389",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/rahulnanda86/status/2120091554987868389",
         "playback_confirmed": false
@@ -1545,7 +1632,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2120091450117623808/img/5W9DAvJazkHBNIgI?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1554,7 +1641,7 @@
       "id": "x-2120139616221311040",
       "url": "https://x.com/rahulnanda86/status/2120139616221311040",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.indiatimes.com/trending/did-salman-khans-ek-tha-tiger-predict-jensen-huangs-controversy-indians-react-to-nvidia-ceos-alleged-affair-with-chinese-spy-alice-huang/articleshow/135714433.html",
       "alternatives": [],
       "latest_check": {
@@ -1571,7 +1658,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/rahulnanda86/status/2120139616221311040",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/rahulnanda86/status/2120139616221311040",
         "playback_confirmed": false
@@ -1579,7 +1666,7 @@
       "alternate_checks": [],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2120139508259917824/img/oBt19N1WzErVAF8t?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1588,14 +1675,14 @@
       "id": "x-2119699166255595565",
       "url": "https://x.com/JamesAI/status/2119699166255595565",
       "platform": "X",
-      "verification": "Checked November 21, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
+      "verification": "Checked November 22, 2026: post identity, date and official oEmbed metadata available. Full playback not independently watched; X access may be required.",
       "source": "https://www.malaymail.com/news/life/2026/11/10/ai-bites-back-nvidia-boss-jensen-huangs-affair-scandal-sparks-memes-from-coldplay-kiss-cam-to-ushers-confessions/242706",
       "alternatives": [
         {
           "url": "https://www.youtube.com/watch?v=0pZIyFSBSLA",
           "platform": "YouTube",
           "creator": "Futurix",
-          "verification": "Checked November 21, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched."
+          "verification": "Checked November 22, 2026: official watch page and oEmbed identify the upload; player metadata reports OK and embeddable. Full playback not independently watched."
         }
       ],
       "latest_check": {
@@ -1612,7 +1699,7 @@
           "og:type": "article"
         },
         "url": "https://x.com/JamesAI/status/2119699166255595565",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "resolved_url": "https://x.com/JamesAI/status/2119699166255595565",
         "playback_confirmed": false
@@ -1638,7 +1725,7 @@
           },
           "published_at": "2026-11-09T11:06:51-08:00",
           "url": "https://www.youtube.com/watch?v=0pZIyFSBSLA",
-          "checked_on": "2026-11-21",
+          "checked_on": "2026-11-22",
           "http_status": 200,
           "resolved_url": "https://www.youtube.com/watch?v=0pZIyFSBSLA",
           "playback_confirmed": false
@@ -1646,7 +1733,7 @@
       ],
       "thumbnail_check": {
         "url": "https://pbs.twimg.com/amplify_video_thumb/2119699077541847040/img/IXp0yrO6S4q14cUc?format=webp&name=large",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "http_status": 200,
         "content_type": "image/webp"
       }
@@ -1655,28 +1742,31 @@
       "id": "reddit-1xufjjj",
       "url": "https://www.reddit.com/r/GottaGoStarbucks/comments/1xufjjj/jensen_huang_ver_of_the_famous_korean_kimchi_slap/",
       "platform": "Reddit",
-      "verification": "Direct recheck November 21, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
+      "verification": "Direct recheck November 22, 2026 returned HTTP 403. Matching public indexed posts were last reviewed November 15 (search crawl November 12–13); current live availability and playback remain unconfirmed. Blocking is not evidence of removal. Original creator not confirmed.",
       "source": "https://www.asiae.co.kr/en/article/2026111214050124983",
       "alternatives": [],
       "latest_check": {
         "page_metadata": {},
         "public_index_recheck": "Matching public post, uploader and media preview retrieved November 15; search crawl November 12–13, not a fresh direct availability check.",
         "url": "https://www.reddit.com/r/GottaGoStarbucks/comments/1xufjjj/jensen_huang_ver_of_the_famous_korean_kimchi_slap/",
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "error": "HTTP Error 403: Blocked",
         "playback_confirmed": false
       },
       "alternate_checks": [],
       "thumbnail_check": {
-        "checked_on": "2026-11-21",
+        "checked_on": "2026-11-22",
         "status": "No thumbnail supplied; site shows title fallback."
       }
     }
   ],
   "refresh_summary": {
-    "date": "2026-11-21",
-    "previous_successful_collection_date": "2026-11-20",
-    "added_ids": [],
+    "date": "2026-11-22",
+    "previous_successful_collection_date": "2026-11-21",
+    "added_ids": [
+      "couples-therapy-laughter",
+      "kym-meme-wave-explained"
+    ],
     "added_alternatives": 0,
     "removed_ids": [],
     "corrected_ids": [],
@@ -1684,55 +1774,27 @@
     "existing_urls_rechecked": 48,
     "successful_existing_metadata_responses": 42,
     "blocked_existing_urls": 6,
+    "new_urls_checked": 2,
     "thumbnail_responses": {
-      "checked": 42,
-      "successful": 38,
+      "checked": 44,
+      "successful": 40,
       "blocked": 4
     },
     "verification_limits": [
-      "Full playback not independently watched.",
+      "Full playback not independently watched; player status and embedding metadata checked.",
       "Six Reddit source requests and four Reddit thumbnails return 403, which does not establish removal. Existing indexed evidence remains dated November 15.",
-      "No sufficiently supported new video added; successful metadata alone does not establish that an animation is satire."
+      "The therapy clip and divorce amount are fictional. The review contains commentary and allegations that are not independently established by this catalog."
     ],
-    "deferred_candidates": [
+    "excluded_candidates": [
       {
-        "url": "https://www.youtube.com/watch?v=gCPWe7_s2q8",
-        "reason": "Professor Of AI upload dated November 20; 86 seconds, player OK and embeddable. Title identifies 3D animation but description is empty and the specific parody content is not independently verified. Deferred rather than inferred from title.",
-        "metadata_check": {
-          "url": "https://www.youtube.com/watch?v=gCPWe7_s2q8",
-          "checked_on": "2026-11-21",
-          "http_status": 200,
-          "resolved_url": "https://www.youtube.com/watch?v=gCPWe7_s2q8",
-          "playback_confirmed": false,
-          "oembed": {
-            "author_name": "Professor Of AI",
-            "author_url": "https://www.youtube.com/@professorofai.official",
-            "title": "Future of Jensen Huang (3D) by Professor of How",
-            "type": "video",
-            "thumbnail_url": "https://i.ytimg.com/vi/gCPWe7_s2q8/hqdefault.jpg"
-          },
-          "page_metadata": {
-            "og:title": "Future of Jensen Huang (3D) by Professor of How",
-            "og:description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-            "og:url": "https://www.youtube.com/shorts/gCPWe7_s2q8",
-            "og:type": "video.other"
-          },
-          "player_metadata": {
-            "status": "OK",
-            "playableInEmbed": true
-          },
-          "published_at": "2026-11-20T04:26:31-08:00"
-        }
-      },
-      {
-        "url": "https://www.reddit.com/r/HuangJensen/comments/1y1ae1n/now_those_chips_are_used_to_make_his_ai_meme/",
-        "reason": "Public indexed discussion found; no sufficiently verified distinct video and original-creator provenance established."
+        "url": "https://www.reddit.com/r/HuangJensen/comments/1y28ow6/oh_my_god_this_is_hilarious/",
+        "reason": "Indexed post is a reposted satirical tweet image, not a newly verified video. Original authorship not established; not added."
       }
     ],
     "research_notes": [
-      "Searched X, YouTube, Reddit and public discovery pages in English, Chinese and Korean across Hollywood, Bollywood, Asian cinema/culture, political/Trump/Downfall, music, sports, tech/finance and internet formats.",
-      "Current roundups predominantly recirculate older formats. Ordinary news, genuine archival footage, unsupported claims and duplicate uploads were not added.",
-      "Collection unchanged at 44 entries and four alternate uploads. November 20 retirement evidence preserved."
+      "Searched X, YouTube, Reddit and public discovery sources in English, Chinese and Korean across Hollywood, Bollywood, Asian cinema/culture, politics/Trump/Downfall, music, sports, tech/finance and internet formats.",
+      "Discovered the therapy clip via viralshooter and the review via vidIQ, then verified exact uploads with official YouTube metadata. No engagement counts copied.",
+      "No duplicate uploads found for the additions. Repeated roundups and genuine footage were not relabeled as memes. Previously deferred candidates remain deferred; retirement evidence preserved."
     ]
   },
   "refresh_history": [
@@ -1945,6 +2007,68 @@
       "research_notes": [
         "Searched X, YouTube, Reddit and public discovery pages in English, Chinese and Korean across cinema/culture, Bollywood, politics/Trump/Downfall, music, sports and tech/finance.",
         "Recent roundups repeated older formats; ordinary news, unsupported allegations and duplicate uploads were not added. No verified replacement found for the Rovskysound removal."
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "previous_successful_collection_date": "2026-11-20",
+      "added_ids": [],
+      "added_alternatives": 0,
+      "removed_ids": [],
+      "corrected_ids": [],
+      "confirmed_broken_existing_links": 0,
+      "existing_urls_rechecked": 48,
+      "successful_existing_metadata_responses": 42,
+      "blocked_existing_urls": 6,
+      "thumbnail_responses": {
+        "checked": 42,
+        "successful": 38,
+        "blocked": 4
+      },
+      "verification_limits": [
+        "Full playback not independently watched.",
+        "Six Reddit source requests and four Reddit thumbnails return 403, which does not establish removal. Existing indexed evidence remains dated November 15.",
+        "No sufficiently supported new video added; successful metadata alone does not establish that an animation is satire."
+      ],
+      "deferred_candidates": [
+        {
+          "url": "https://www.youtube.com/watch?v=gCPWe7_s2q8",
+          "reason": "Professor Of AI upload dated November 20; 86 seconds, player OK and embeddable. Title identifies 3D animation but description is empty and the specific parody content is not independently verified. Deferred rather than inferred from title.",
+          "metadata_check": {
+            "url": "https://www.youtube.com/watch?v=gCPWe7_s2q8",
+            "checked_on": "2026-11-21",
+            "http_status": 200,
+            "resolved_url": "https://www.youtube.com/watch?v=gCPWe7_s2q8",
+            "playback_confirmed": false,
+            "oembed": {
+              "author_name": "Professor Of AI",
+              "author_url": "https://www.youtube.com/@professorofai.official",
+              "title": "Future of Jensen Huang (3D) by Professor of How",
+              "type": "video",
+              "thumbnail_url": "https://i.ytimg.com/vi/gCPWe7_s2q8/hqdefault.jpg"
+            },
+            "page_metadata": {
+              "og:title": "Future of Jensen Huang (3D) by Professor of How",
+              "og:description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "og:url": "https://www.youtube.com/shorts/gCPWe7_s2q8",
+              "og:type": "video.other"
+            },
+            "player_metadata": {
+              "status": "OK",
+              "playableInEmbed": true
+            },
+            "published_at": "2026-11-20T04:26:31-08:00"
+          }
+        },
+        {
+          "url": "https://www.reddit.com/r/HuangJensen/comments/1y1ae1n/now_those_chips_are_used_to_make_his_ai_meme/",
+          "reason": "Public indexed discussion found; no sufficiently verified distinct video and original-creator provenance established."
+        }
+      ],
+      "research_notes": [
+        "Searched X, YouTube, Reddit and public discovery pages in English, Chinese and Korean across Hollywood, Bollywood, Asian cinema/culture, political/Trump/Downfall, music, sports, tech/finance and internet formats.",
+        "Current roundups predominantly recirculate older formats. Ordinary news, genuine archival footage, unsupported claims and duplicate uploads were not added.",
+        "Collection unchanged at 44 entries and four alternate uploads. November 20 retirement evidence preserved."
       ]
     }
   ],

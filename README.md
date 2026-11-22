@@ -4,9 +4,9 @@ A browsable Jensen Huang meme library: https://inder.github.io/jensenverse/
 
 ## Collection
 
-44 curated entries across X, YouTube, Reddit and Instagram, plus four grouped alternate uploads. Categories cover Hollywood, Bollywood, Korean, Chinese-language captions, broader Asian references, music, political satire, internet classics, comedy and tech/finance. Sports includes basketball and football AI parodies, a LeBron-style entrance and a Mourinho interview recreation. Categories reflect the meme format or source language, not a person’s ethnicity.
+46 curated entries across X, YouTube, Reddit and Instagram, plus four grouped alternate uploads. Categories cover Hollywood, Bollywood, Korean, Chinese-language captions, broader Asian references, music, political satire, internet classics, comedy and tech/finance. Sports includes basketball and football AI parodies, a LeBron-style entrance and a Mourinho interview recreation. Categories reflect the meme format or source language, not a person’s ethnicity.
 
-The collection includes AI parodies, captioned clips, performed comedy, film edits, a meme review and one image reply. Satire labels describe content type; allegations made by meme captions are not presented as facts. Alternate uploads are not counted as unique entries. Poster/uploader credit does not establish original authorship.
+The collection includes AI parodies, captioned clips, performed comedy, film edits, meme reviews and one image reply. Satire labels describe content type; allegations made by meme captions are not presented as facts. Alternate uploads are not counted as unique entries. Poster/uploader credit does not establish original authorship.
 
 ## Features
 
@@ -14,7 +14,7 @@ Search, category/platform/format filters, curated/newest order, saved items stor
 
 ## Verification
 
-Metadata and links rechecked November 21, 2026. `data.json` contains per-entry source and verification notes; `link-verification.json` records the audit. X original pages and official oEmbed records were checked. YouTube metadata reported playable, embeddable videos at check time. Reddit entries retain matching public indexed posts and media previews last reviewed November 15, but November 21 direct requests were blocked; current live availability is unconfirmed. Instagram is a source link with public metadata and supporting coverage; its playback and embedding were not tested. One uploader-deleted YouTube entry was retired on November 20; its evidence is retained in the audit. The Instagram thumbnail was refreshed from the original Reel metadata. Full playback was not independently watched. Availability, thumbnails and regional playback can change.
+Metadata and links rechecked November 22, 2026. `data.json` contains per-entry source and verification notes; `link-verification.json` records the audit. X original pages and official oEmbed records were checked. YouTube metadata reported playable, embeddable videos at check time. Reddit entries retain matching public indexed posts and media previews last reviewed November 15, but November 22 direct requests were blocked; current live availability is unconfirmed. Instagram is a source link with public metadata and supporting coverage; its playback and embedding were not tested. One uploader-deleted YouTube entry was retired on November 20; its evidence is retained in the audit. The Instagram thumbnail was refreshed from the original Reel metadata. Full playback was not independently watched. Availability, thumbnails and regional playback can change.
 
 ## Hosting and editing
 
