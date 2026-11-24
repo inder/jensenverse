@@ -4,17 +4,17 @@ A browsable Jensen Huang meme library: https://inder.github.io/jensenverse/
 
 ## Collection
 
-48 curated entries across X, YouTube, Reddit and Instagram, plus four grouped alternate uploads. Categories cover Hollywood, Bollywood, Korean, Chinese-language captions, broader Asian references, music, political satire, internet classics, comedy and tech/finance. Sports includes basketball and football AI parodies, a LeBron-style entrance, a Mourinho interview recreation and a wrestling-ring comeback edit. Categories reflect the meme format or source language, not a person’s ethnicity.
+51 curated entries across X, YouTube, Reddit, Instagram and Bilibili, plus four grouped alternate uploads. Categories cover Hollywood, Bollywood, Korean, Chinese-language captions, broader Asian references, music, political satire, internet classics, comedy and tech/finance. Sports includes basketball and football AI parodies, a LeBron-style entrance, a Mourinho interview recreation and a wrestling-ring comeback edit. Categories reflect the meme format or source language, not a person’s ethnicity.
 
 The collection includes AI parodies, captioned clips, performed comedy, film edits, meme reviews and one image reply. Satire labels describe content type; allegations made by meme captions are not presented as facts. Alternate uploads are not counted as unique entries. Poster/uploader credit does not establish original authorship.
 
 ## Features
 
-Search, category/platform/format filters, curated/newest order, saved items stored only in the visitor’s browser, per-item share links, surprise picks, and detail views with optional official X/YouTube embeds. Social players load only on request. Instagram entries open at the source. Thumbnails are served from their source platforms; no video files are copied or rehosted.
+Search, category/platform/format filters, curated/newest order, saved items stored only in the visitor’s browser, per-item share links, surprise picks, and detail views with optional official X/YouTube embeds. Social players load only on request. Instagram and Bilibili entries open at the source. Thumbnails are served from their source platforms; no video files are copied or rehosted.
 
 ## Verification
 
-Metadata and links rechecked November 23, 2026. `data.json` contains per-entry source and verification notes; `link-verification.json` records the audit. X original pages and official oEmbed records were checked. YouTube metadata reported playable, embeddable videos at check time. Reddit entries retain matching public indexed posts and media previews last reviewed November 15, but November 23 direct requests were blocked; current live availability is unconfirmed. Instagram is a source link with public metadata and supporting coverage; its playback and embedding were not tested. One uploader-deleted YouTube entry was retired on November 20; its evidence is retained in the audit. The Instagram thumbnail was refreshed from the original Reel metadata. Full playback was not independently watched. Availability, thumbnails and regional playback can change.
+Metadata and links rechecked November 24, 2026. `data.json` contains per-entry source and verification notes; `link-verification.json` records the audit. X original pages and official oEmbed records were checked. YouTube metadata reported playable, embeddable videos at check time. Reddit entries retain matching public indexed posts and media previews last reviewed November 15, but November 24 direct requests were blocked; current live availability is unconfirmed. Instagram is a source link with public metadata and supporting coverage; its playback and embedding were not tested. Two uploader-deleted YouTube entries were retired on November 20 and 24; evidence is retained in the audit. The featured (500) Days of Chips entry now uses its existing YouTube alternate after its X account was suspended. Bilibili metadata was checked; playback and embedding were not tested. The Instagram thumbnail was refreshed from the original Reel metadata. Full playback was not independently watched. Availability, thumbnails and regional playback can change.
 
 ## Hosting and editing
 
