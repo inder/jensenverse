@@ -135,3 +135,11 @@
 - Deferred Reddit’s Return of Jensen despite matching public indexed title/uploader/description: direct request blocked and exact timestamp/playable source/thumbnail insufficiently verified. Deferred Sith Daddy’s November 26 song repost after page/oEmbed and thumbnail checks because original song/creator and duplicate status remain unclear. Discovery roundup allegations were not adopted as fact.
 - Searched English/Chinese/Korean sources and requested culture, film, political, sports, music, finance and internet-classic categories across X, YouTube, Reddit and public roundups. No unrelated news or category filler added.
 - Corrected rolling relative discovery wording in eight recent entries to explicit November 25/26 dates. Upload dates and existing source links unchanged. Preserved all retirement/source-change history, website code, branding, icon and social preview.
+
+## 2026-11-28 — daily refresh; no collection changes
+
+- Fetched origin/main; clean main synchronized. Previous successful refresh: November 27. No worthwhile verified additions, alternate sources, removals or repairs found; remains 61 entries and four grouped alternates.
+- English/Chinese/Korean discovery across X, YouTube, Reddit and public roundups covered the requested film, culture, political/Trump/Downfall, music, sports, tech/finance and internet-classic categories. November 27 AFP coverage and November 28 meme reports mostly recirculate earlier formats; their publication dates were not mistaken for new upload dates. Generic news and a text-only Reddit joke were not added as videos. Prior deferred leads remain unresolved.
+- Rechecked all 65 existing primary/alternate URLs: 59 usable metadata responses, six Reddit access blocks. All YouTube player records report OK/embeddable; X official oEmbed records available. No confirmed removals. Existing indexed Reddit evidence keeps its November 15 date.
+- Checked 59 thumbnails: 55 successful, four Reddit previews blocked with existing title fallbacks. Instagram’s November 25 repair still works. Bilibili/Instagram playback and embedding untested; no complete videos independently watched. Prior visual inspections retain their original dates.
+- Updated verification dates and audit evidence only. Preserved upload/discovery dates, all retirement/source-change history, website code, branding, icon and social preview.
